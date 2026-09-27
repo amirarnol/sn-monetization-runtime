@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-09-26T19:03:27.909Z; n=40
-show	hn	5.11	yes	
-lodging	sn:the_stacker_muse	3.54	yes	
-wayfaring men book club	sn:the_stacker_muse	3.54	yes	
-start	sn:the_stacker_muse	3.54	yes	
+# generated 2026-09-27T00:17:55.440Z; n=40
+lodging	sn:the_stacker_muse	3.57	yes	
+wayfaring men book club	sn:the_stacker_muse	3.57	yes	
+start	sn:the_stacker_muse	3.57	yes	
+happo world	sn:gaming	3.5	no	RISING
+bitcoin virtual world	sn:gaming	3.5	no	RISING
 the natural numbers game	sn:math	3.45	no	RISING
 gamified introduction	sn:math	3.45	no	RISING
 lean	sn:math	3.45	no	RISING
+victory	sn:bitcoin	3.43	yes	
+successfully	sn:bitcoin	3.43	yes	
+bitcoin	sn:bitcoin	3.36	yes	
+bull case	sn:bitcoin	3.36	yes	
+billion daily users by	sn:bitcoin	3.36	yes	
 what	sn:AskSN	3.35	yes	
 late summer permaculture homesteading	sn:Permaculture	3.34	no	RISING
 bitcoin standard	sn:Permaculture	3.34	no	RISING
-bitcoin	sn:bitcoin	3.32	yes	
-bull case	sn:bitcoin	3.32	yes	
-billion daily users by	sn:bitcoin	3.32	yes	
 weapons	sn:bitcoin	3.31	yes	
-lighting	sn:lightning	3.21	no	RISING
-fell out of love with bitcoin lightning	sn:lightning	3.21	no	RISING
-undisciplined	sn:Stacker_Sports	3.1	no	RISING
+saturday newsletter	sn:meta	3.31	yes	
 daily discussion thread	sn:Music	3.1	no	RISING
 music saloon	sn:Music	3.1	no	RISING
-coldcard	sn:bitcoin	3.03	yes	
+earthquakes	sn:charts_and_maps	3.04	no	RISING
+biggest channel opened today	sn:lightning	3.01	no	RISING
+new node spotlight	sn:lightning	3.01	no	RISING
+daily putt	sn:gaming	3	no	RISING
+play	sn:gaming	3	no	RISING
+putt	sn:gaming	3	no	RISING
+score	sn:gaming	3	no	RISING
 vol shares registers	sn:Stacker_Sports	3	no	RISING
 basketball	sn:Stacker_Sports	3	no	RISING
 books	sn:BooksAndArticles	3	no	RISING
 articles weekly	sn:BooksAndArticles	3	no	RISING
+fremantle	sn:Stacker_Sports	2.99	no	RISING
+brisbane highlights	sn:Stacker_Sports	2.99	no	RISING
+grand final	sn:Stacker_Sports	2.99	no	RISING
 the legend	sn:math	2.97	no	RISING
 sissa	sn:math	2.97	no	RISING
-welp	sn:news	2.95	no	RISING
-mstr	sn:news	2.95	no	RISING
-srtc	sn:news	2.95	no	RISING
-daily putt	sn:gaming	2.94	no	RISING
-play	sn:gaming	2.94	no	RISING
-putt	sn:gaming	2.94	no	RISING
-score	sn:gaming	2.94	no	RISING
-parents	sn:family	2.85	no	RISING
-daposka ahnkodapi	sn:family	2.85	no	RISING
-money	sn:econ	2.85	no	RISING
-medium	sn:econ	2.85	no	RISING
-exchange	sn:econ	2.85	no	RISING
-unit	sn:econ	2.85	no	RISING
-account	sn:econ	2.85	yes	
+nostr	sn:AskSN	2.96	yes	
+using	sn:bitcoin_Mining	2.95	no	RISING
+nigeria	sn:bitcoin_Mining	2.95	no	RISING
+parents	sn:family	2.91	no	RISING
