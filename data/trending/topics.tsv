@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-09-27T09:51:05.693Z; n=40
-lodging	sn:the_stacker_muse	3.58	yes	
-wayfaring men book club	sn:the_stacker_muse	3.58	yes	
-start	sn:the_stacker_muse	3.58	yes	
-victory	sn:bitcoin	3.52	yes	
-successfully	sn:bitcoin	3.52	yes	
-happo world	sn:gaming	3.52	no	RISING
-bitcoin virtual world	sn:gaming	3.52	no	RISING
-the natural numbers game	sn:math	3.46	no	RISING
-gamified introduction	sn:math	3.46	no	RISING
-lean	sn:math	3.46	no	RISING
+# generated 2026-09-27T15:00:04.569Z; n=40
+bitcoin	sn:bitcoin,sn:AGORA	5.69	yes	
+using bitcoin miners	sn:Permaculture	3.84	no	RISING
+make maple syrup	sn:Permaculture	3.84	no	RISING
+lodging	sn:the_stacker_muse	3.63	yes	
+wayfaring men book club	sn:the_stacker_muse	3.63	yes	
+start	sn:the_stacker_muse	3.63	yes	
+show	hn	3.59	yes	
+victory	sn:bitcoin	3.57	yes	
+successfully	sn:bitcoin	3.57	yes	
+happo world	sn:gaming	3.56	no	RISING
+bitcoin virtual world	sn:gaming	3.56	no	RISING
+the natural numbers game	sn:math	3.49	no	RISING
+gamified introduction	sn:math	3.49	no	RISING
+lean	sn:math	3.49	no	RISING
 saturday newsletter	sn:meta	3.31	yes	
-metal	sn:AskSN	3.08	no	RISING
-long-term	sn:AskSN	3.08	no	RISING
+metal	sn:AskSN	3.2	no	RISING
+long-term	sn:AskSN	3.2	no	RISING
+haleen	sn:art	3.06	no	RISING
+sense of awe	sn:art	3.06	no	RISING
+listen	sn:art	3.06	no	RISING
+fountain	sn:art	3.06	no	RISING
 earthquakes	sn:charts_and_maps	3.04	no	RISING
-books	sn:BooksAndArticles	3.01	no	RISING
-articles weekly	sn:BooksAndArticles	3.01	no	RISING
 biggest channel opened today	sn:lightning	3.01	no	RISING
 new node spotlight	sn:lightning	3.01	no	RISING
 using	sn:bitcoin_Mining	3.01	no	RISING
 nigeria	sn:bitcoin_Mining	3.01	no	RISING
-vol shares registers	sn:Stacker_Sports	3	no	RISING
-basketball	sn:Stacker_Sports	3	no	RISING
 fremantle	sn:Stacker_Sports	2.99	no	RISING
 brisbane highlights	sn:Stacker_Sports	2.99	no	RISING
 grand final	sn:Stacker_Sports	2.99	no	RISING
 nostr	sn:AskSN	2.96	yes	
-could	sn:AskSN	2.89	yes	
-our computers like bitcoin does	sn:AskSN	2.89	yes	
-money	sn:econ	2.87	no	RISING
-medium	sn:econ	2.87	no	RISING
-exchange	sn:econ	2.87	no	RISING
-unit	sn:econ	2.87	no	RISING
-account	sn:econ	2.87	yes	
-store	sn:econ	2.87	no	RISING
-value	sn:econ	2.87	no	RISING
-japan faces	sn:family	2.85	no	RISING
-million vacant homes amid record population drop	sn:family	2.85	no	RISING
+history	sn:bitcoin	2.95	yes	
+blocks	sn:bitcoin	2.95	yes	
 self	sn:lightning	2.84	no	RISING
 misty breez	sn:lightning	2.84	no	RISING
 move your funds	sn:lightning	2.84	no	RISING
+lightning address	sn:AskSN	2.82	no	RISING
+lula	sn:news	2.81	no	RISING
+fixed-odds	sn:news	2.81	no	RISING
+brazilian	sn:news	2.81	no	RISING
+image	sn:Design	2.81	no	RISING
