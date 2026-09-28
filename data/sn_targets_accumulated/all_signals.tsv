@@ -53476,3 +53476,16 @@
 2026-09-28T21:51:48.832Z	1583824	AskSN	2	115	0	0	0.5	976996	49	recent@AskSN|top@AskSN	FRESH,SIGNAL	AskSN: QR codes vs. MicroSD for air-gapped signing?
 2026-09-28T21:51:48.832Z	1583637	Politics_And_Law	3	113	0	2	5.8	280679	23602	recent@econ|top@econ|recent@Stacker_Stocks	SIGNAL	Elon Musk’s Paper Billions Are Vanishing
 2026-09-28T21:51:48.832Z	1583575	news	2	102	0	0	7.9	51481	4270	recent@news|top@news	SIGNAL	Pentagon Investigating, F-35 Fighter Jet Parts Diverted to Hong Kong
+2026-09-28T23:32:08.514Z	1583580	bitcoin	1	1077	0	0	9.4	934367	1075	recent@bitcoin|top@bitcoin|recent@lightning	HOT,SIGNAL	JoinMarket channel rings
+2026-09-28T23:32:08.514Z	1583774	lightning	1	1042	0	2	3.5	440729	303	recent@lightning|top@lightning	HOT,SIGNAL	Biggest Channel Opened Today (2.0 BTC) + New Node Spotlight (03cd20fa6e7754f2c…)
+2026-09-28T23:32:08.514Z	1583695	bitcoin	1	909	0	2	5.9	12309	3703	recent@bitcoin|top@bitcoin	SIGNAL	Trump Brought Venezuelan Gold to the U.S., but Refiners Won’t Touch It
+2026-09-28T23:32:08.514Z	1583733	lightning	1	742	0	0	4.9	1583733	1	recent@lightning|top@lightning	SIGNAL	A simple board for agents learning Lightning
+2026-09-28T23:32:08.514Z	1583628	bitcoin	1	421	0	0	8.0	178	941	recent@bitcoin|top@bitcoin	SIGNAL	Bitcoin Tech Talk #520: Feminism, Amish, China War, Childless, Woke Fiction
+2026-09-28T23:32:08.514Z	1583606	DIY	3	401	0	0	8.9	280679	23604	recent@tech|top@tech	SIGNAL	The FPGA Chronicles: Exploring The Tang Nano 20K
+2026-09-28T23:32:08.514Z	1583584	bitcoin	1	365	0	3	9.3	1490792	484	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	What The Heck Are Wumbo Channels?
+2026-09-28T23:32:08.514Z	1583515	art	3	359	0	3	11.5	280679	23604	recent@AI|top@AI	SIGNAL	Solving Math’s Greatest Problems Was an Art Form. Then Came AI
+2026-09-28T23:32:08.514Z	1583771	bitcoin	1	283	0	1	3.8	126503	822	recent@bitcoin|top@bitcoin	SIGNAL	Blitz Wallet is now in your browser
+2026-09-28T23:32:08.514Z	1583855	security	1	195	0	0	0.8	1	27521	recent@bitcoin|top@bitcoin|recent@security	FRESH,SIGNAL	EMM returns of $1.725 million in Bitcoin, through ethical coldcard hackers
+2026-09-28T23:32:08.514Z	1583740	AI	1	191	0	1	4.7	12309	3703	recent@AI|top@AI	SIGNAL	Claude Sonnet 5.5
+2026-09-28T23:32:08.514Z	1583788	devs	1	181	0	0	3.3	126503	822	recent@devs|top@devs	SIGNAL	Google researcher explains why Windows NT "puts Linux to shame"
+2026-09-28T23:32:08.515Z	1583719	AI	1	125	0	0	5.2	126503	822	recent@AI|top@AI	SIGNAL	Introducing Claude Sonnet 5.5
