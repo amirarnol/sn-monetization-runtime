@@ -1,0 +1,59 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1584495	meta	1	12253	0	8	2.2	48657	15782	recent@meta|top@meta	HOT,SIGNAL	Research in Public #20: Stacker News paper accepted at WISE 2026
+1584442	math	2	2255	0	0	2.9	74100	12939	recent@bitcoin|top@bitcoin|recent@bitdevs	HOT,SIGNAL	PRAWNS - localhost research
+1584549	bitcoin	1	1789	0	0	1.4	74100	12939	recent@bitcoin|top@bitcoin|recent@privacy	FRESH,HOT,SIGNAL	How Private Are Bitcoin Transactions, Really? - Vinteum
+1584091	lightning	1	1358	0	8	8.2	934367	1077	recent@lightning|top@lightning	HOT,SIGNAL	Low effort scam via LN keysend
+1584566	bitcoin	1	1336	0	0	1.2	1584566	1	recent@bitcoin|top@bitcoin	FRESH,HOT,SIGNAL	Zaptrain: Lightning invoicing where we only hold a receive-only key
+1584226	bitcoin	1	1263	0	3	5.6	1584226	1	recent@bitcoin|top@bitcoin	HOT,SIGNAL	River is forcing new terms that severely restrict account holder options
+1584586	AI	1	1064	0	0	0.6	19732	173	recent@AI|top@AI	FRESH,HOT,SIGNAL	TUTORIAL: Run Hermes on Umbrel, control your home server remotely!
+1584530	AskSN	2	988	0	2	1.7	1227948	206	recent@bitcoin|top@bitcoin	FRESH,SIGNAL	Shipping Services that take Bitcoin
+1584572	bitcoin_Mining	1	599	0	0	1.0	9274	27991	recent@bitcoin_Mining|top@bitcoin_Mining	FRESH,SIGNAL	Hashrate Index Roundup - September 28, 2026
+1584224	podcasts	2	536	0	0	5.6	296825	5462	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs	SIGNAL	The Praxeology of Privacy: Cypherpunks Rebuilding the Internet
+1584421	AI	1	483	0	0	3.3	12309	3705	recent@AI|top@AI	SIGNAL	GPT-6.1 Sol
+1584124	tech	1	454	0	1	7.3	996769	58	recent@bitcoin|top@bitcoin|recent@privacy	SIGNAL	🎙️ NEW EPISODE: The Praxeology of Privacy: Cypherpunks Rebuilding the Internet
+1584033	bitcoin	1	395	0	2	11.2	1554639	29	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	Your Lightning Node May Be Logging More Than You Think
+1584327	AskSN	2	368	0	0	4.4	792262	1782	recent@bitcoin|top@bitcoin	SIGNAL	Can we live without worrying?
+1584246	AI	1	184	0	0	5.4	272410	1669	recent@devs|top@devs|recent@AI	SIGNAL	LibreOffice 26.8 tops a million downloads precisely because it has no AI
+1584445	nostr	1	180	0	0	2.8	296825	5462	recent@nostr|top@nostr	SIGNAL	Nostube: A Nostr-based video sharing platform
+1584529	AI	1	125	0	2	1.7	280679	23638	recent@AI|top@AI	FRESH,SIGNAL	Here's what actually happened in OpenAI's Australian gov't server hack
+1583472	AI	1	2157	0	4	33.8	8306	1142	recent@AI	HOT	Is an Agentic Bank Run Coming? | The Daily Spark
+1583890	AI	1	1760	0	6	19.3	440139	4320	recent@AI|top@AI	HOT	Anthropic's IPO prospectus shows sweeping AI vision, surging costs
+1583889	Permaculture	3	1729	0	6	19.4	1578954	98	recent@bitcoin_Mining|top@bitcoin_Mining	HOT,SELF_POST_OPP	⛏️ Bitcoin Mining: Hybrid Direct DC with AC Grid Power Backup
+1583884	tech	1	1341	0	4	20.1	1245155	358	recent@tech|top@tech	HOT	What's Worth Building?
+1583695	bitcoin	1	1116	0	11	26.9	12309	3705	recent@bitcoin	HOT	Trump Brought Venezuelan Gold to the U.S., but Refiners Won’t Touch It
+1583774	lightning	1	1078	0	2	24.6	440729	304	recent@lightning	HOT	Biggest Channel Opened Today (2.0 BTC) + New Node Spotlight (03cd20fa6e7754f2c…)
+1583580	bitcoin	1	1077	0	0	30.5	934367	1077	recent@bitcoin|recent@lightning	HOT	JoinMarket channel rings
+1583855	security	1	1041	0	2	21.9	1	27528	recent@bitcoin|top@bitcoin|recent@security	HOT	EMM returns of $1.725 million in Bitcoin, through ethical coldcard hackers
+1583733	lightning	1	786	0	2	25.9	1583733	1	recent@lightning		A simple board for agents learning Lightning
+1583998	bitcoin	1	623	0	3	13.8	1554639	29	top@bitcoin_beginners		The hardest part of building a P2P Bitcoin market isn't the software
+1583628	bitcoin	1	421	0	0	29.0	178	941	recent@bitcoin		Bitcoin Tech Talk #520: Feminism, Amish, China War, Childless, Woke Fiction
+1583606	DIY	3	401	0	0	29.9	280679	23638	recent@tech		The FPGA Chronicles: Exploring The Tang Nano 20K
+1583584	bitcoin	1	365	0	3	30.3	1490792	492	recent@bitcoin|recent@bitcoin_beginners|recent@lightning		What The Heck Are Wumbo Channels?
+1583515	art	3	359	0	3	32.5	280679	23638	recent@AI		Solving Math’s Greatest Problems Was an Art Form. Then Came AI
+1583492	nostr	1	355	0	0	33.1	280679	23638	recent@nostr|recent@devs		now is a good time to consider hosting copies of your repositories on nostr
+1583878	news	2	290	0	0	20.3	297791	7857	recent@tech|top@tech		NASA reveals new plan for Boeing’s troubled Starliner spacecraft
+1583771	bitcoin	1	283	0	3	24.8	126503	823	recent@bitcoin		Blitz Wallet is now in your browser
+1583958	bitcoin_beginners	1	241	0	1	16.2	296825	5462	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning		Cashu latest releases
+1583740	AI	1	191	0	1	25.7	12309	3705	recent@AI		Claude Sonnet 5.5
+1583788	devs	1	181	0	0	24.3	126503	823	recent@devs		Google researcher explains why Windows NT "puts Linux to shame"
+1583882	AI	1	129	0	1	20.1	1575305	9	recent@AI|top@AI		OpenAI Scraps Release of New AI Model Over Safety Concerns
+1583719	AI	1	125	0	0	26.2	126503	823	recent@AI		Introducing Claude Sonnet 5.5
+1584307	Music	3	86	0	0	4.6	296825	5462	recent@bitcoin_beginners|top@bitcoin_beginners		Contra: Standing against the tyrannical powers that be.
+1583732	AskSN	2	59	0	1	25.9	1208996	514	recent@bitcoin_beginners		Bitcoin ⚡
+1584212	AI	1	57	0	0	5.8	296825	5462	recent@bitcoin_beginners|top@bitcoin_beginners|recent@AI		The Savings Currency of the Agentic Economy
+1584147	bitcoin	1	57	0	0	6.8	1490792	492	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining		Kazakhstan Decree Lets Bitcoin Miners Burn Flare Gas, Bypass the Grid
+1584192	AI	1	57	0	0	6.1	1490792	492	recent@AI|top@AI		Fugleramme : real-time bird detection by audio
+1584289	bitcoin_beginners	1	48	0	0	4.8	296825	5462	recent@bitcoin_beginners|top@bitcoin_beginners		They designed a system you will never escape...
+1583506	podcasts	2	36	0	0	32.8	296825	5462	recent@bitcoin_beginners		Judgment. Understanding. Change.
+1583438	AskSN	2	36	0	0	35.5	296825	5462	recent@bitcoin_beginners		What’s the most unforgettable Bitcoin ₿ experience you’ve ever had?
+1583825	bitcoin	1	36	0	1	23.2	280679	23638	recent@bitcoin_Mining|top@bitcoin_Mining		River has sued Blockstream Services Canada over bitcoin mining services
+1584423	AI	1	36	0	3	3.2	1301409	73	recent@AI|top@AI		America (dot) gov
+1583693	AI	1	36	0	0	27.0	272410	1669	recent@AI		Why do AI experts opine on things outside their field?
+1584201	bitcoin	1	31	0	2	5.9	699824	166	recent@devs|top@devs		Instant On-Chain Bitcoin Deposits with Breez ⚡️
+1583598	bitcoin	1	0	0	0	30.1	280679	23638	recent@bitcoin_beginners		You Can’t Leak a Key You Destroyed
+1584230	bitcoin_Mining	1	0	0	0	5.5	1054143	1357	recent@bitcoin_Mining|top@bitcoin_Mining		Top 11 cloud mining platforms to use in September 2026
+1583846	bitcoin_Mining	1	0	0	0	22.5	280679	23638	recent@bitcoin_Mining|top@bitcoin_Mining		Kazakhstan targets flare gas for digital asset mining
+1584166	security	1	0	0	0	6.5	1490792	492	recent@security|top@security		Google says some Pixel phone owners were hacked in zero-day attacks | TechCrunch
+1584298	AI	1	0	0	0	4.7	837285	1821	recent@AI|top@AI		The LLM “Pain Axis”: When Safety Training Loses
+1584241	AI	1	0	0	0	5.4	984933	2691	recent@AI|top@AI		Opus 5.5 videos: viral prompts and live remakes | Skillry
+1583621	AI	1	0	0	0	29.3	1054143	1357	recent@AI		Nvidia releases software platform to stop AI agents from misbehaving

@@ -53615,3 +53615,20 @@
 2026-09-29T15:54:01.105Z	1584033	bitcoin	1	361	0	1	6.5	1554639	29	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	Your Lightning Node May Be Logging More Than You Think
 2026-09-29T15:54:01.105Z	1583958	bitcoin_beginners	1	241	0	1	11.5	296825	5453	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning	SIGNAL	Cashu latest releases
 2026-09-29T15:54:01.105Z	1584246	AI	1	184	0	0	0.7	272410	1662	recent@devs|top@devs|recent@AI	FRESH,SIGNAL	LibreOffice 26.8 tops a million downloads precisely because it has no AI
+2026-09-29T20:33:18.231Z	1584495	meta	1	12253	0	8	2.2	48657	15782	recent@meta|top@meta	HOT,SIGNAL	Research in Public #20: Stacker News paper accepted at WISE 2026
+2026-09-29T20:33:18.231Z	1584442	math	2	2255	0	0	2.9	74100	12939	recent@bitcoin|top@bitcoin|recent@bitdevs	HOT,SIGNAL	PRAWNS - localhost research
+2026-09-29T20:33:18.231Z	1584549	bitcoin	1	1789	0	0	1.4	74100	12939	recent@bitcoin|top@bitcoin|recent@privacy	FRESH,HOT,SIGNAL	How Private Are Bitcoin Transactions, Really? - Vinteum
+2026-09-29T20:33:18.231Z	1584091	lightning	1	1358	0	8	8.2	934367	1077	recent@lightning|top@lightning	HOT,SIGNAL	Low effort scam via LN keysend
+2026-09-29T20:33:18.231Z	1584566	bitcoin	1	1336	0	0	1.2	1584566	1	recent@bitcoin|top@bitcoin	FRESH,HOT,SIGNAL	Zaptrain: Lightning invoicing where we only hold a receive-only key
+2026-09-29T20:33:18.231Z	1584226	bitcoin	1	1263	0	3	5.6	1584226	1	recent@bitcoin|top@bitcoin	HOT,SIGNAL	River is forcing new terms that severely restrict account holder options
+2026-09-29T20:33:18.231Z	1584586	AI	1	1064	0	0	0.6	19732	173	recent@AI|top@AI	FRESH,HOT,SIGNAL	TUTORIAL: Run Hermes on Umbrel, control your home server remotely!
+2026-09-29T20:33:18.231Z	1584530	AskSN	2	988	0	2	1.7	1227948	206	recent@bitcoin|top@bitcoin	FRESH,SIGNAL	Shipping Services that take Bitcoin
+2026-09-29T20:33:18.231Z	1584572	bitcoin_Mining	1	599	0	0	1.0	9274	27991	recent@bitcoin_Mining|top@bitcoin_Mining	FRESH,SIGNAL	Hashrate Index Roundup - September 28, 2026
+2026-09-29T20:33:18.231Z	1584224	podcasts	2	536	0	0	5.6	296825	5462	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs	SIGNAL	The Praxeology of Privacy: Cypherpunks Rebuilding the Internet
+2026-09-29T20:33:18.231Z	1584421	AI	1	483	0	0	3.3	12309	3705	recent@AI|top@AI	SIGNAL	GPT-6.1 Sol
+2026-09-29T20:33:18.231Z	1584124	tech	1	454	0	1	7.3	996769	58	recent@bitcoin|top@bitcoin|recent@privacy	SIGNAL	🎙️ NEW EPISODE: The Praxeology of Privacy: Cypherpunks Rebuilding the Internet
+2026-09-29T20:33:18.231Z	1584033	bitcoin	1	395	0	2	11.2	1554639	29	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	Your Lightning Node May Be Logging More Than You Think
+2026-09-29T20:33:18.231Z	1584327	AskSN	2	368	0	0	4.4	792262	1782	recent@bitcoin|top@bitcoin	SIGNAL	Can we live without worrying?
+2026-09-29T20:33:18.231Z	1584246	AI	1	184	0	0	5.4	272410	1669	recent@devs|top@devs|recent@AI	SIGNAL	LibreOffice 26.8 tops a million downloads precisely because it has no AI
+2026-09-29T20:33:18.231Z	1584445	nostr	1	180	0	0	2.8	296825	5462	recent@nostr|top@nostr	SIGNAL	Nostube: A Nostr-based video sharing platform
+2026-09-29T20:33:18.231Z	1584529	AI	1	125	0	2	1.7	280679	23638	recent@AI|top@AI	FRESH,SIGNAL	Here's what actually happened in OpenAI's Australian gov't server hack
