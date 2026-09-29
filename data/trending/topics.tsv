@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-09-29T01:30:14.911Z; n=40
-what	hn,sn:family,sn:tech	12.76	yes	
-predyx	sn:Stacker_Stocks	6.29	no	RISING
-launch	hn,sn:Politics_And_Law	4.51	no	RISING
-show	hn	4.13	yes	
+# generated 2026-09-29T10:26:23.911Z; n=40
+what	hn,sn:tech,sn:family	8.42	yes	
 trip report	sn:Travel	4.06	no	RISING
 paris	sn:Travel	4.06	no	RISING
-permaculture homesteading	sn:Permaculture	3.53	no	RISING
-bitcoin standard	sn:Permaculture	3.53	no	RISING
+show	hn	4.05	yes	
 nobody should ever eat lettuce	sn:Politics_And_Law	3.48	no	RISING
 washington post	sn:Politics_And_Law	3.48	no	RISING
 tamar haspel	sn:Politics_And_Law	3.48	no	RISING
-bite	sn:Education	3.41	no	RISING
-hand	sn:Education	3.41	no	RISING
-why public schools can	sn:Education	3.41	no	RISING
-afford	sn:Education	3.41	no	RISING
-teach economics	sn:Education	3.41	no	RISING
-back	sn:Stacker_Stocks	3.39	no	RISING
-live	sn:Stacker_Stocks	3.39	no	RISING
+bite	sn:Education	3.43	no	RISING
+hand	sn:Education	3.43	no	RISING
+why public schools can	sn:Education	3.43	no	RISING
+afford	sn:Education	3.43	no	RISING
+teach economics	sn:Education	3.43	no	RISING
+predyx	sn:Stacker_Stocks	3.4	no	RISING
+back	sn:Stacker_Stocks	3.4	no	RISING
+live	sn:Stacker_Stocks	3.4	no	RISING
 regulation	sn:Politics_And_Law	3.36	no	RISING
 dangers	sn:Politics_And_Law	3.36	no	RISING
 electricity	sn:Politics_And_Law	3.36	no	RISING
 pete earle	sn:Politics_And_Law	3.36	no	RISING
 federal reserve staffer removed sensitive files before retiring	sn:lol	3.35	no	RISING
 report finds	sn:lol	3.35	no	RISING
-again	sn:meta	3.33	yes	
 agentic bank run coming	sn:AI	3.33	yes	
 the daily spark	sn:AI	3.33	yes	
-daily discussion thread	sn:Music	3.14	no	RISING
-music saloon	sn:Music	3.14	no	RISING
+bitcoin mining	sn:Permaculture	3.13	no	RISING
+hybrid direct	sn:Permaculture	3.13	no	RISING
+grid power backup	sn:Permaculture	3.13	no	RISING
+worth building	sn:tech	3.12	yes	
 elevation	sn:charts_and_maps	3.12	no	RISING
-survivor pool	sn:Stacker_Sports	3.05	no	RISING
-week	sn:Stacker_Sports	3.05	no	RISING
-benjamin satterley dies	sn:Stacker_Sports	3.02	no	RISING
-won championships	sn:Stacker_Sports	3.02	no	RISING
-worth building	sn:tech	3.02	yes	
-playoff points challenge	sn:Stacker_Sports	3.01	no	RISING
-wildcard series pick	sn:Stacker_Sports	3.01	no	RISING
-join	sn:Stacker_Sports	3	no	RISING
-last	sn:Stacker_Sports	3	no	RISING
-starship launch	sn:Politics_And_Law	3	no	RISING
+anthropic	sn:AI	3.11	yes	
+starship launch	sn:Politics_And_Law	3.11	no	RISING
+live feed	sn:Politics_And_Law	3.11	no	RISING
+ship to go to orbit	sn:Politics_And_Law	3.11	no	RISING
+launch	sn:Politics_And_Law	3.11	no	RISING
+central	sn:Politics_And_Law	3.11	no	RISING
+survivor pool	sn:Stacker_Sports	3.06	no	RISING
+week	sn:Stacker_Sports	3.06	no	RISING
+trump brought venezuelan gold	sn:bitcoin	3.03	yes	
+refiners won	sn:bitcoin	3.03	yes	
+touch it	sn:bitcoin	3.03	yes	
+biggest channel opened today	sn:lightning	3.03	no	RISING
