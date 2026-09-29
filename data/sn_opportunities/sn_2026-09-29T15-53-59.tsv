@@ -1,0 +1,49 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1584226	bitcoin	1	1093	0	0	0.9	1584226	1	recent@bitcoin|top@bitcoin	FRESH,HOT,SIGNAL	River is forcing new terms that severely restrict account holder options
+1584091	lightning	1	1089	0	7	3.5	934367	1077	recent@lightning|top@lightning	HOT,SIGNAL	Low effort scam via LN keysend
+1583998	bitcoin	1	623	0	1	9.1	1554639	29	top@bitcoin_beginners	SIGNAL	The hardest part of building a P2P Bitcoin market isn't the software
+1584224	podcasts	2	536	0	0	0.9	296825	5453	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs	FRESH,SIGNAL	The Praxeology of Privacy: Cypherpunks Rebuilding the Internet
+1584033	bitcoin	1	361	0	1	6.5	1554639	29	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	Your Lightning Node May Be Logging More Than You Think
+1583958	bitcoin_beginners	1	241	0	1	11.5	296825	5453	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning	SIGNAL	Cashu latest releases
+1584246	AI	1	184	0	0	0.7	272410	1662	recent@devs|top@devs|recent@AI	FRESH,SIGNAL	LibreOffice 26.8 tops a million downloads precisely because it has no AI
+1583472	AI	1	2157	0	4	29.2	8306	1142	recent@AI	HOT	Is an Agentic Bank Run Coming? | The Daily Spark
+1583890	AI	1	1760	0	6	14.7	440139	4320	recent@AI|top@AI	HOT	Anthropic's IPO prospectus shows sweeping AI vision, surging costs
+1583889	Permaculture	3	1729	0	3	14.8	1578954	96	recent@bitcoin_Mining|top@bitcoin_Mining	HOT	⛏️ Bitcoin Mining: Hybrid Direct DC with AC Grid Power Backup
+1583884	tech	1	1341	0	4	15.5	1245155	358	recent@tech|top@tech	HOT	What's Worth Building?
+1583695	bitcoin	1	1116	0	11	22.2	12309	3703	recent@bitcoin|top@bitcoin	HOT	Trump Brought Venezuelan Gold to the U.S., but Refiners Won’t Touch It
+1583774	lightning	1	1078	0	2	19.9	440729	303	recent@lightning|top@lightning	HOT	Biggest Channel Opened Today (2.0 BTC) + New Node Spotlight (03cd20fa6e7754f2c…)
+1583580	bitcoin	1	1077	0	0	25.8	934367	1077	recent@bitcoin|recent@lightning	HOT	JoinMarket channel rings
+1583855	security	1	1041	0	2	17.2	1	27525	recent@bitcoin|top@bitcoin|recent@security	HOT	EMM returns of $1.725 million in Bitcoin, through ethical coldcard hackers
+1583733	lightning	1	786	0	2	21.2	1583733	1	recent@lightning|top@lightning		A simple board for agents learning Lightning
+1583415	bitcoin	1	444	0	0	32.5	1528401	5	recent@bitcoin|recent@bitdevs		Coconut Wallet & Vault update
+1583628	bitcoin	1	421	0	0	24.3	178	941	recent@bitcoin		Bitcoin Tech Talk #520: Feminism, Amish, China War, Childless, Woke Fiction
+1583606	DIY	3	401	0	0	25.3	280679	23624	recent@tech		The FPGA Chronicles: Exploring The Tang Nano 20K
+1583584	bitcoin	1	365	0	3	25.6	1490792	492	recent@bitcoin|recent@bitcoin_beginners|recent@lightning		What The Heck Are Wumbo Channels?
+1583515	art	3	359	0	3	27.9	280679	23624	recent@AI		Solving Math’s Greatest Problems Was an Art Form. Then Came AI
+1583492	nostr	1	355	0	0	28.5	280679	23624	recent@nostr|recent@devs		now is a good time to consider hosting copies of your repositories on nostr
+1583878	news	2	290	0	0	15.7	297791	7857	recent@tech|top@tech		NASA reveals new plan for Boeing’s troubled Starliner spacecraft
+1583771	bitcoin	1	283	0	3	20.1	126503	823	recent@bitcoin|top@bitcoin		Blitz Wallet is now in your browser
+1583740	AI	1	191	0	1	21.0	12309	3703	recent@AI|top@AI		Claude Sonnet 5.5
+1583788	devs	1	181	0	0	19.6	126503	823	recent@devs|top@devs		Google researcher explains why Windows NT "puts Linux to shame"
+1583882	AI	1	129	0	1	15.5	1575305	9	recent@AI|top@AI		OpenAI Scraps Release of New AI Model Over Safety Concerns
+1583719	AI	1	125	0	0	21.5	126503	823	recent@AI|top@AI		Introducing Claude Sonnet 5.5
+1583732	AskSN	2	59	0	1	21.3	1208996	514	recent@bitcoin_beginners|top@bitcoin_beginners		Bitcoin ⚡
+1584124	tech	1	57	0	0	2.6	996769	58	recent@bitcoin|top@bitcoin|recent@privacy		🎙️ NEW EPISODE: The Praxeology of Privacy: Cypherpunks Rebuilding the Internet
+1584212	AI	1	57	0	0	1.2	296825	5453	recent@bitcoin_beginners|top@bitcoin_beginners|recent@AI	FRESH	The Savings Currency of the Agentic Economy
+1584147	bitcoin	1	57	0	0	2.2	1490792	492	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining		Kazakhstan Decree Lets Bitcoin Miners Burn Flare Gas, Bypass the Grid
+1583381	bitcoin_beginners	1	57	0	0	34.8	296825	5453	recent@bitcoin_beginners|recent@bitcoinplusplus|recent@bitdevs		Why Do Bitcoiners Hang Out Where They're Hated?
+1584192	AI	1	57	0	0	1.4	1490792	492	recent@AI|top@AI	FRESH	Fugleramme : real-time bird detection by audio
+1583506	podcasts	2	36	0	0	28.2	296825	5453	recent@bitcoin_beginners		Judgment. Understanding. Change.
+1583438	AskSN	2	36	0	0	30.8	296825	5453	recent@bitcoin_beginners		What’s the most unforgettable Bitcoin ₿ experience you’ve ever had?
+1583352	bitcoin_beginners	1	36	0	0	35.5	296825	5453	recent@bitcoin_beginners		Explain the difference again
+1583825	bitcoin	1	36	0	1	18.5	280679	23624	recent@bitcoin_Mining|top@bitcoin_Mining		River has sued Blockstream Services Canada over bitcoin mining services
+1583693	AI	1	36	0	0	22.4	272410	1662	recent@AI|top@AI		Why do AI experts opine on things outside their field?
+1584201	bitcoin	1	31	0	1	1.3	699824	166	recent@devs|top@devs	FRESH	Instant On-Chain Bitcoin Deposits with Breez ⚡️
+1584289	bitcoin_beginners	1	0	0	0	0.1	296825	5453	recent@bitcoin_beginners|top@bitcoin_beginners	FRESH	They designed a system you will never escape...
+1583598	bitcoin	1	0	0	0	25.5	280679	23624	recent@bitcoin_beginners		You Can’t Leak a Key You Destroyed
+1584230	bitcoin_Mining	1	0	0	0	0.9	1054143	1357	recent@bitcoin_Mining|top@bitcoin_Mining	FRESH	Top 11 cloud mining platforms to use in September 2026
+1583846	bitcoin_Mining	1	0	0	0	17.8	280679	23624	recent@bitcoin_Mining|top@bitcoin_Mining		Kazakhstan targets flare gas for digital asset mining
+1584166	security	1	0	0	0	1.8	1490792	492	recent@security|top@security	FRESH	Google says some Pixel phone owners were hacked in zero-day attacks | TechCrunch
+1584298	AI	1	0	0	0	0.0	837285	1820	recent@AI|top@AI	FRESH	The LLM “Pain Axis”: When Safety Training Loses
+1584241	AI	1	0	0	0	0.8	984933	2688	recent@AI|top@AI	FRESH	Opus 5.5 videos: viral prompts and live remakes | Skillry
+1583621	AI	1	0	0	0	24.6	1054143	1357	recent@AI		Nvidia releases software platform to stop AI agents from misbehaving
