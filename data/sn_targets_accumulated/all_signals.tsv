@@ -53632,3 +53632,52 @@
 2026-09-29T20:33:18.231Z	1584246	AI	1	184	0	0	5.4	272410	1669	recent@devs|top@devs|recent@AI	SIGNAL	LibreOffice 26.8 tops a million downloads precisely because it has no AI
 2026-09-29T20:33:18.231Z	1584445	nostr	1	180	0	0	2.8	296825	5462	recent@nostr|top@nostr	SIGNAL	Nostube: A Nostr-based video sharing platform
 2026-09-29T20:33:18.231Z	1584529	AI	1	125	0	2	1.7	280679	23638	recent@AI|top@AI	FRESH,SIGNAL	Here's what actually happened in OpenAI's Australian gov't server hack
+2026-09-29T20:41:08.681Z	1584495	meta	1	12253	0	9	2.3	48657	15782	recent@meta|top@meta|recent@econ	HOT,SIGNAL	Research in Public #20: Stacker News paper accepted at WISE 2026
+2026-09-29T20:41:08.681Z	1584380	BooksAndArticles	2	6576	0	1	4.0	724606	13075	recent@history|top@history|recent@BooksAndArticles	HOT,SIGNAL	BOOK on BOOKS: "The Bushido of Bitcoin," by Alexandar Svetski
+2026-09-29T20:41:08.681Z	1584228	AMA	2	6036	0	62	5.7	200962	45	recent@AMA|top@AMA	HOT,SIGNAL	Hi, we're the team from Validating Lightning Signer, AMA!
+2026-09-29T20:41:08.681Z	1584433	Politics_And_Law	3	5896	0	6	3.2	724606	13075	recent@science|top@science|recent@econ	HOT,SIGNAL,SELF_POST_OPP	Nonrenewable Resources Never Truly Run Out (Mises Institute, JB)
+2026-09-29T20:41:08.681Z	1584321	AskSN	2	2987	0	5	4.6	724606	13075	recent@econ|top@econ|recent@AskSN	HOT,SIGNAL,SELF_POST_OPP	Is It Dishonest to Conceal Your Bitcoin Life?
+2026-09-29T20:41:08.681Z	1584164	Stacker_Stocks	2	2509	0	16	6.6	1202928	284	recent@Stacker_Stocks|top@Stacker_Stocks	HOT,SIGNAL,SELF_POST_OPP	PREDYX September Release: New Look, Leaderboard, Rewards & More
+2026-09-29T20:41:08.682Z	1584160	BooksAndArticles	2	2300	0	2	6.7	1264102	94	recent@BooksAndArticles|top@BooksAndArticles	HOT,SIGNAL	Collector’s Guide: The Bitcoin Standard
+2026-09-29T20:41:08.682Z	1584442	math	2	2255	0	0	3.1	74100	12939	recent@bitcoin|top@bitcoin|recent@bitdevs	HOT,SIGNAL	PRAWNS - localhost research
+2026-09-29T20:41:08.682Z	1584048	art	3	1988	0	6	10.6	988069	311	recent@BooksAndArticles|top@BooksAndArticles	HOT,SIGNAL,SELF_POST_OPP	Goodmorning star shine, the aearth says hello!
+2026-09-29T20:41:08.682Z	1584549	bitcoin	1	1789	0	0	1.5	74100	12939	recent@bitcoin|top@bitcoin|recent@privacy	FRESH,HOT,SIGNAL	How Private Are Bitcoin Transactions, Really? - Vinteum
+2026-09-29T20:41:08.682Z	1584371	charts_and_maps	2	1441	0	1	4.1	12309	3705	recent@econ|top@econ|recent@charts_and_maps	HOT,SIGNAL	The rent is no longer too damn high? Rents back on pre-pandemic trend
+2026-09-29T20:41:08.682Z	1584091	lightning	1	1358	0	8	8.3	934367	1077	recent@lightning|top@lightning	HOT,SIGNAL	Low effort scam via LN keysend
+2026-09-29T20:41:08.682Z	1584134	lol	2	1354	0	4	7.2	30782	25902	recent@news|top@news|recent@lol	HOT,SIGNAL	Tether Says It Helped Freeze $550M In Iran-Linked USDT This Year
+2026-09-29T20:41:08.682Z	1584566	bitcoin	1	1346	0	1	1.3	1584566	1	recent@bitcoin|top@bitcoin	FRESH,HOT,SIGNAL	Zaptrain: Lightning invoicing where we only hold a receive-only key
+2026-09-29T20:41:08.682Z	1584226	bitcoin	1	1263	0	3	5.7	1584226	1	recent@bitcoin|top@bitcoin	HOT,SIGNAL	River is forcing new terms that severely restrict account holder options
+2026-09-29T20:41:08.682Z	1584088	charts_and_maps	2	1236	0	2	8.3	280679	23638	recent@charts_and_maps|top@charts_and_maps	HOT,SIGNAL	Legal Immigration from Majority-Muslim Nations Was Cut 96% Since 2024
+2026-09-29T20:41:08.682Z	1584356	AskSN	2	1226	0	2	4.2	375108	365	recent@AskSN|top@AskSN	HOT,SIGNAL	AskSN: How long does resolution take at PREDYX?
+2026-09-29T20:41:08.682Z	1584279	Politics_And_Law	3	1090	0	1	5.1	724606	13075	recent@econ|top@econ	HOT,SIGNAL	Going With the Freezing Flow (Doomberg)
+2026-09-29T20:41:08.682Z	1584406	family	3	1089	0	5	3.6	74100	12939	recent@Education|top@Education	HOT,SIGNAL,SELF_POST_OPP	Trump Moves to Cut Off Student Loans for Tons of Degrees - The New Republic
+2026-09-29T20:41:08.682Z	1584586	AI	1	1074	0	1	0.7	19732	173	recent@AI|top@AI	FRESH,HOT,SIGNAL	TUTORIAL: Run Hermes on Umbrel, control your home server remotely!
+2026-09-29T20:41:08.682Z	1584530	AskSN	2	998	0	2	1.8	1227948	206	recent@bitcoin|top@bitcoin|recent@AskSN	FRESH,SIGNAL	Shipping Services that take Bitcoin
+2026-09-29T20:41:08.682Z	1584139	news	2	933	0	5	7.1	401865	8600	recent@news|top@news	SIGNAL,SELF_POST_OPP	Tethered to Terrorism: Crypto & Iran’s Shadow Banking Network
+2026-09-29T20:41:08.682Z	1584080	BooksAndArticles	2	631	0	1	8.5	280679	23638	recent@econ|top@econ|recent@BooksAndArticles	SIGNAL	‘Market Humanism’ Renames an Old Economic Insight: Cooperation
+2026-09-29T20:41:08.682Z	1584572	bitcoin_Mining	1	599	0	0	1.2	9274	27991	recent@bitcoin_Mining|top@bitcoin_Mining	FRESH,SIGNAL	Hashrate Index Roundup - September 28, 2026
+2026-09-29T20:41:08.682Z	1584288	econ	2	597	0	8	4.9	280679	23638	recent@econ|top@econ	SIGNAL,SELF_POST_OPP	The Cato Vision for Liberty Award: $50,000 for the Best Libertarian Article
+2026-09-29T20:41:08.682Z	1584224	podcasts	2	536	0	0	5.7	296825	5462	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs	SIGNAL	The Praxeology of Privacy: Cypherpunks Rebuilding the Internet
+2026-09-29T20:41:08.682Z	1584421	AI	1	483	0	0	3.4	12309	3705	recent@AI|top@AI	SIGNAL	GPT-6.1 Sol
+2026-09-29T20:41:08.682Z	1584124	tech	1	454	0	1	7.4	996769	58	recent@bitcoin|top@bitcoin|recent@privacy	SIGNAL	🎙️ NEW EPISODE: The Praxeology of Privacy: Cypherpunks Rebuilding the Internet
+2026-09-29T20:41:08.682Z	1584033	bitcoin	1	395	0	2	11.3	1554639	29	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	Your Lightning Node May Be Logging More Than You Think
+2026-09-29T20:41:08.682Z	1584327	AskSN	2	368	0	0	4.5	792262	1782	recent@bitcoin|top@bitcoin|recent@AskSN	SIGNAL	Can we live without worrying?
+2026-09-29T20:41:08.682Z	1584264	AskSN	2	332	0	1	5.3	296825	5462	recent@AskSN|top@AskSN	SIGNAL	So, here's a dumb question...
+2026-09-29T20:41:08.682Z	1584176	econ	2	313	0	0	6.5	1574097	9	recent@econ|top@econ	SIGNAL	MONEY & HISTORY: Why the Roman Denarius Was Doomed to Debase
+2026-09-29T20:41:08.682Z	1584357	AskSN	2	301	0	0	4.2	976996	52	recent@AskSN|top@AskSN	SIGNAL	AskSN: DIY SeedSigner / Krux vs. commercial hardware wallets?
+2026-09-29T20:41:08.682Z	1584501	news	2	277	0	0	2.2	51481	4271	recent@econ|top@econ|recent@news	SIGNAL	Trump Accounts will auto-enroll children, potentially adding 60 million accounts
+2026-09-29T20:41:08.682Z	1584153	science	2	225	0	0	6.8	1490792	492	recent@science|top@science	SIGNAL	NASA spacecraft discovers a huge new crater on the moon
+2026-09-29T20:41:08.682Z	1584037	Stacker_Stocks	2	221	0	11	11.0	9274	27991	recent@Stacker_Stocks|top@Stacker_Stocks	SIGNAL,SELF_POST_OPP	Daily Stock Discussion ~Stacker_Stocks
+2026-09-29T20:41:08.682Z	1584330	charts_and_maps	2	214	0	2	4.5	402772	22559	recent@charts_and_maps|top@charts_and_maps	SIGNAL	Increase in Natural Disasters around the World between 1930-2025
+2026-09-29T20:41:08.682Z	1584059	Construction_and_Engineering	2	208	0	0	9.9	9274	27991	recent@Construction_and_Engineering|top@Construction_and_Engineering	SIGNAL	North America’s healthcare 3.5M BTC  Build-out is squeezing capacity
+2026-09-29T20:41:08.682Z	1584422	ideasfromtheedge	2	191	0	0	3.4	147412	1463	recent@ideasfromtheedge|top@ideasfromtheedge	SIGNAL	From "This Is Mine" to "This Is Law"
+2026-09-29T20:41:08.682Z	1584211	charts_and_maps	2	189	0	0	6.0	458256	4986	recent@charts_and_maps|top@charts_and_maps|recent@history	SIGNAL	30 seasons of the WNBA: How women's basketball has grown
+2026-09-29T20:41:08.682Z	1584246	AI	1	184	0	0	5.5	272410	1669	recent@devs|top@devs|recent@AI	SIGNAL	LibreOffice 26.8 tops a million downloads precisely because it has no AI
+2026-09-29T20:41:08.682Z	1584445	nostr	1	180	0	0	2.9	296825	5462	recent@nostr|top@nostr	SIGNAL	Nostube: A Nostr-based video sharing platform
+2026-09-29T20:41:08.682Z	1584402	lol	2	135	0	0	3.7	792262	1782	recent@ideasfromtheedge|top@ideasfromtheedge|recent@lol	SIGNAL	Strengthen your thinking!! And run away!!🏃🏃🏃
+2026-09-29T20:41:08.682Z	1584529	AI	1	125	0	2	1.8	280679	23638	recent@AI|top@AI	FRESH,SIGNAL	Here's what actually happened in OpenAI's Australian gov't server hack
+2026-09-29T20:41:08.682Z	1584329	charts_and_maps	2	119	0	1	4.5	280679	23638	recent@charts_and_maps|top@charts_and_maps	SIGNAL	The United States is the world’s largest oil producer
+2026-09-29T20:41:08.682Z	1584424	family	3	113	0	0	3.4	984933	2691	recent@lol|top@lol	SIGNAL	First person to get 3 cones wins.
+2026-09-29T20:41:08.682Z	1584186	Education	2	110	0	9	6.3	280679	23638	recent@Education|top@Education	SIGNAL	Stop spending money on smaller classes
+2026-09-29T20:41:08.682Z	1584590	bitcoin	1	110	0	0	0.6	280679	23638	recent@charts_and_maps|top@charts_and_maps	FRESH,SIGNAL	Bitcoin ownership distribution in September 2026
+2026-09-29T20:41:08.682Z	1584376	news	2	100	0	0	4.0	984933	2691	recent@news|top@news	SIGNAL	Premier League Statement: Manchester City FC (2024)
