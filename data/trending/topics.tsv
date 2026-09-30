@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-09-29T20:28:18.055Z; n=40
-predyx	sn:Stacker_Stocks	6.8	no	RISING
-what	hn,sn:tech	5.95	yes	
-guide	hn,sn:BooksAndArticles	5.41	no	RISING
-another	sn:AGORA	4.14	no	RISING
+# generated 2026-09-30T01:06:58.520Z; n=40
+predyx	sn:Stacker_Stocks,sn:AskSN	6.52	no	RISING
+guide	hn,sn:BooksAndArticles	5.64	no	RISING
+show	hn	5.4	yes	
+another	sn:AGORA	4.15	no	RISING
 research	sn:meta	4.09	yes	
 public	sn:meta	4.09	yes	
 stacker news	sn:meta	4.09	yes	
 wise	sn:meta	4.09	yes	
-trip report	sn:Travel	4.07	no	RISING
-paris	sn:Travel	4.07	no	RISING
 book	sn:BooksAndArticles	3.82	no	RISING
 books	sn:BooksAndArticles	3.82	no	RISING
 the bushido	sn:BooksAndArticles	3.82	no	RISING
 bitcoin	sn:BooksAndArticles	3.82	yes	
 alexandar svetski	sn:BooksAndArticles	3.82	no	RISING
-validating lightning signer	sn:AMA	3.78	yes	
-nonrenewable resources never truly run out	sn:Politics_And_Law	3.77	no	RISING
-mises institute	sn:Politics_And_Law	3.77	no	RISING
+validating lightning signer	sn:AMA	3.8	yes	
+nonrenewable resources never truly run out	sn:Politics_And_Law	3.78	no	RISING
+mises institute	sn:Politics_And_Law	3.78	no	RISING
 last	sn:Stacker_Sports	3.57	no	RISING
-is it dishonest	sn:AskSN	3.47	no	RISING
-conceal your bitcoin life	sn:AskSN	3.47	no	RISING
-september release	sn:Stacker_Stocks	3.4	no	RISING
-new look	sn:Stacker_Stocks	3.4	no	RISING
-leaderboard	sn:Stacker_Stocks	3.4	no	RISING
-rewards	sn:Stacker_Stocks	3.4	no	RISING
-more	sn:Stacker_Stocks	3.4	no	RISING
-back	sn:Stacker_Stocks	3.4	no	RISING
-live	sn:Stacker_Stocks	3.4	no	RISING
-collector	sn:BooksAndArticles	3.36	no	RISING
-the bitcoin standard	sn:BooksAndArticles	3.36	no	RISING
-prawns	sn:math	3.35	yes	
-building	sn:Construction_and_Engineering	3.31	no	RISING
-foundation	sn:Construction_and_Engineering	3.31	no	RISING
-continue	sn:Construction_and_Engineering	3.31	no	RISING
-hope	sn:Construction_and_Engineering	3.31	no	RISING
-goodmorning	sn:art	3.3	no	RISING
-how private are bitcoin transactions	sn:bitcoin	3.25	yes	
-really	sn:bitcoin	3.25	yes	
-vinteum	sn:bitcoin	3.25	yes	
+is it dishonest	sn:AskSN	3.48	no	RISING
+conceal your bitcoin life	sn:AskSN	3.48	no	RISING
+september release	sn:Stacker_Stocks	3.43	no	RISING
+new look	sn:Stacker_Stocks	3.43	no	RISING
+leaderboard	sn:Stacker_Stocks	3.43	no	RISING
+rewards	sn:Stacker_Stocks	3.43	no	RISING
+more	sn:Stacker_Stocks	3.43	no	RISING
+collector	sn:BooksAndArticles	3.38	no	RISING
+the bitcoin standard	sn:BooksAndArticles	3.38	no	RISING
+prawns	sn:math	3.37	yes	
+goodmorning	sn:art	3.32	no	RISING
+building	sn:Construction_and_Engineering	3.32	no	RISING
+foundation	sn:Construction_and_Engineering	3.32	no	RISING
+continue	sn:Construction_and_Engineering	3.32	no	RISING
+hope	sn:Construction_and_Engineering	3.32	no	RISING
+how private are bitcoin transactions	sn:bitcoin	3.28	yes	
+really	sn:bitcoin	3.28	yes	
+vinteum	sn:bitcoin	3.28	yes	
 anthropic	sn:AI	3.25	yes	
+bitcoin mining	sn:Permaculture	3.24	no	RISING
+hybrid direct	sn:Permaculture	3.24	no	RISING
+grid power backup	sn:Permaculture	3.24	no	RISING
+office	sn:Politics_And_Law	3.23	no	RISING
