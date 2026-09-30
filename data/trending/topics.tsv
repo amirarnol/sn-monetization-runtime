@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-09-30T10:18:36.563Z; n=40
-bitcoin	sn:BooksAndArticles,sn:AskSN	6.86	yes	
-predyx	sn:Stacker_Stocks,sn:AskSN	6.53	no	RISING
-week	sn:Stacker_Sports	6.23	no	RISING
-show	hn	5.9	yes	
-guide	hn,sn:BooksAndArticles	5.81	no	RISING
-what	hn,sn:AskSN	5.77	yes	
-last	hn,sn:Stacker_Sports	5.47	no	RISING
-another	sn:AGORA	4.23	no	RISING
-research	sn:meta	4.13	yes	
-public	sn:meta	4.13	yes	
-stacker news	sn:meta	4.13	yes	
-wise	sn:meta	4.13	yes	
-book	sn:BooksAndArticles	3.83	no	RISING
-books	sn:BooksAndArticles	3.83	no	RISING
-the bushido	sn:BooksAndArticles	3.83	no	RISING
-alexandar svetski	sn:BooksAndArticles	3.83	no	RISING
-validating lightning signer	sn:AMA	3.82	no	RISING
-nonrenewable resources never truly run out	sn:Politics_And_Law	3.78	no	RISING
-mises institute	sn:Politics_And_Law	3.78	no	RISING
-is it dishonest	sn:AskSN	3.49	no	RISING
-conceal your bitcoin life	sn:AskSN	3.49	no	RISING
-september release	sn:Stacker_Stocks	3.43	no	RISING
-new look	sn:Stacker_Stocks	3.43	no	RISING
-leaderboard	sn:Stacker_Stocks	3.43	no	RISING
-rewards	sn:Stacker_Stocks	3.43	no	RISING
-more	sn:Stacker_Stocks	3.43	no	RISING
-prawns	sn:math	3.38	yes	
-collector	sn:BooksAndArticles	3.38	no	RISING
-the bitcoin standard	sn:BooksAndArticles	3.38	no	RISING
-how private are bitcoin transactions	sn:bitcoin	3.29	yes	
-really	sn:bitcoin	3.29	yes	
-vinteum	sn:bitcoin	3.29	yes	
-office	sn:Politics_And_Law	3.24	no	RISING
-cybersecurity updated house web	sn:Politics_And_Law	3.24	no	RISING
-cloud security affecting	sn:Politics_And_Law	3.24	no	RISING
-alby	sn:Politics_And_Law	3.24	no	RISING
-is the dollar wrecking ball back	sn:Stacker_Stocks	3.21	no	RISING
-rogue macro	sn:Stacker_Stocks	3.21	no	RISING
-ansel lindner	sn:Stacker_Stocks	3.21	no	RISING
-what every parent should fix while they still can	sn:family	3.18	no	RISING
+# generated 2026-09-30T20:35:31.845Z; n=40
+what	hn,sn:math,sn:AskSN,sn:meta	12.02	yes	
+show	hn	5.18	yes	
+getting	hn,sn:bitcoin	4.89	yes	
+permaculture	sn:Permaculture	3.88	no	RISING
+give	sn:Permaculture	3.88	no	RISING
+bank runs	sn:BooksAndArticles	3.87	no	RISING
+good	sn:BooksAndArticles	3.87	no	RISING
+actually	sn:BooksAndArticles	3.87	no	RISING
+death	sn:BooksAndArticles	3.87	no	RISING
+central banks	sn:BooksAndArticles	3.87	no	RISING
+toby nangle	sn:BooksAndArticles	3.87	no	RISING
+shielded bitcoin	sn:bitcoin	3.59	yes	
+questions	sn:bitcoin	3.59	yes	
+answers	sn:bitcoin	3.59	yes	
+insider edition	sn:bitcoin	3.59	yes	
+is the dollar wrecking ball back	sn:Stacker_Stocks	3.52	no	RISING
+rogue macro	sn:Stacker_Stocks	3.52	no	RISING
+ansel lindner	sn:Stacker_Stocks	3.52	no	RISING
+how chinese	sn:Politics_And_Law	3.38	no	RISING
+federal reserve	sn:Politics_And_Law	3.38	no	RISING
+freedom	sn:history	3.27	no	RISING
+hard-fought	sn:history	3.27	no	RISING
+writing	sn:the_stacker_muse	3.21	no	RISING
+important skill	sn:the_stacker_muse	3.21	no	RISING
+says professor who allows	sn:the_stacker_muse	3.21	no	RISING
+joe cruz	sn:the_stacker_muse	3.21	no	RISING
+the teaser period	sn:AI	3.19	yes	
+boom is hitting	sn:AI	3.19	yes	
+reset wall	sn:AI	3.19	yes	
+wi-fi	sn:DIY	3.16	no	RISING
+survivor pool	sn:Stacker_Sports	3.15	no	RISING
+week	sn:Stacker_Sports	3.15	no	RISING
+pick submissions	sn:Stacker_Sports	3.15	no	RISING
+lessons	sn:AI	3.09	yes	
+andrew bailey	sn:AI	3.09	yes	
+august	sn:econ	3.08	no	RISING
+inflation not so bad	sn:econ	3.04	no	RISING
+conservatives	sn:Politics_And_Law	3.02	no	RISING
+libertarians	sn:Politics_And_Law	3.02	no	RISING
+uneasy cousins	sn:Politics_And_Law	3.02	no	RISING
