@@ -54337,3 +54337,19 @@
 2026-10-02T16:13:31.299Z	1586836	meta	1	132	0	0	6.2	36151	1655	recent@meta|top@meta	SIGNAL	This Day on SN: October 2
 2026-10-02T16:13:31.299Z	1586901	AskSN	2	117	0	0	4.1	976996	65	recent@AskSN|top@AskSN	SIGNAL	Unpopular Opinion: 2-of-3 Multisig adds more failure points than protection.
 2026-10-02T16:13:31.299Z	1586862	news	2	110	0	0	5.7	1054143	1370	recent@news|top@news	SIGNAL	Trump vows to hit Iran ‘very hard’ if linked to fly Dubai's attack
+2026-10-02T19:52:00.636Z	1586918	bitcoin	1	3364	0	3	7.2	1014665	242	recent@bitcoin|top@bitcoin|recent@lightning	HOT,SIGNAL	Eclair Dos, wallet labels, changing consensus - Bitcoin Optech Newsletter #425
+2026-10-02T19:52:00.636Z	1587006	lightning	1	1271	0	0	5.5	440729	310	top@lightning	HOT,SIGNAL	~Lightning Gossip newsletter - 026W40
+2026-10-02T19:52:00.636Z	1587162	meta	1	1246	0	9	1.6	48657	15874	recent@meta|top@meta	FRESH,HOT,SIGNAL	SNL Thumbnail Hall of Fame -- Submit your candidates!
+2026-10-02T19:52:00.636Z	1586957	AskSN	2	1093	0	1	6.2	280679	23680	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Is the pre-finality double-spend race intrinsic to single-owner coins?
+2026-10-02T19:52:00.636Z	1587154	bitcoin	1	1066	0	0	1.7	19732	175	recent@bitcoin|top@bitcoin	FRESH,HOT,SIGNAL	Bitbox 02 Nova: Hardware wallet with lightning? New tutorial and breakdown.
+2026-10-02T19:52:00.636Z	1587160	lightning	1	1058	0	3	1.6	440729	310	recent@lightning|top@lightning	FRESH,HOT,SIGNAL	Biggest Channel Opened Today (5.0 BTC) + New Node Spotlight (03cae7bd53077364b…)
+2026-10-02T19:52:00.636Z	1586888	bitcoin_beginners	1	1026	0	3	8.2	30782	25923	recent@bitcoin_beginners|top@bitcoin_beginners	HOT,SIGNAL	Bitcoin Beginners Newsletter #118
+2026-10-02T19:52:00.636Z	1587101	nostr	1	618	0	2	3.1	1578954	133	recent@nostr|top@nostr	SIGNAL	Brainstorm - Nostr's ultimate web of trust client
+2026-10-02T19:52:00.636Z	1586877	tech	1	552	0	2	8.6	776307	1279	recent@tech|top@tech	SIGNAL	'Absolute s–t': Element, EU's Microsoft Teams alternative draws bad reviews
+2026-10-02T19:52:00.637Z	1586831	bitcoin	1	510	0	0	9.9	133081	733	recent@bitcoin|top@bitcoin	SIGNAL	The Dutch Tax Trap: Punishing Bitcoin Self-Custody to Favor ETFs
+2026-10-02T19:52:00.637Z	1587046	lightning	1	500	0	1	4.5	263526	878	recent@lightning|top@lightning	SIGNAL	🚨 Core Lightning operators SHOULD upgrade immediately. The v26.06.8 fix is live
+2026-10-02T19:52:00.637Z	1587138	bitcoin	1	428	0	0	2.3	163128	3931	recent@bitcoin|top@bitcoin	SIGNAL	BISQ Release v1.10.9 w/ important security update fixed vulnerabilities
+2026-10-02T19:52:00.637Z	1587175	privacy	1	363	0	0	1.4	249216	290	recent@privacy|top@privacy	FRESH,SIGNAL	👻 Ghostly: Find each other. Talk peer to peer.
+2026-10-02T19:52:00.637Z	1587148	bitcoin	1	161	0	3	1.9	1490792	506	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning	FRESH,SIGNAL	Core Lightning Urgent security update:please upgrade to the latest release
+2026-10-02T19:52:00.637Z	1587076	math	2	153	0	0	3.8	296825	5483	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning	SIGNAL	The beautiful math of a Bitcoin block
+2026-10-02T19:52:00.637Z	1586836	meta	1	132	0	0	9.9	36151	1655	recent@meta|top@meta	SIGNAL	This Day on SN: October 2
