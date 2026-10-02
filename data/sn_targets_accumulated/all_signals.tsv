@@ -54353,3 +54353,47 @@
 2026-10-02T19:52:00.637Z	1587148	bitcoin	1	161	0	3	1.9	1490792	506	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning	FRESH,SIGNAL	Core Lightning Urgent security update:please upgrade to the latest release
 2026-10-02T19:52:00.637Z	1587076	math	2	153	0	0	3.8	296825	5483	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning	SIGNAL	The beautiful math of a Bitcoin block
 2026-10-02T19:52:00.637Z	1586836	meta	1	132	0	0	9.9	36151	1655	recent@meta|top@meta	SIGNAL	This Day on SN: October 2
+2026-10-02T21:16:43.311Z	1586918	bitcoin	1	3364	0	3	8.6	1014665	242	recent@bitcoin|top@bitcoin|recent@lightning	HOT,SIGNAL	Eclair Dos, wallet labels, changing consensus - Bitcoin Optech Newsletter #425
+2026-10-02T21:16:43.311Z	1586905	Design	2	2198	0	1	9.0	227039	78	recent@Design|top@Design	HOT,SIGNAL	Babylon Stören, South Africa - Business Model Design Breakdown
+2026-10-02T21:16:43.311Z	1586841	BooksAndArticles	2	2072	0	4	11.2	724606	13173	recent@econ|top@econ|recent@BooksAndArticles	HOT,SIGNAL	On Hills And Valleys (X, Luke de Wolf)
+2026-10-02T21:16:43.311Z	1587232	AI	1	2048	0	1	1.1	4078	5518	recent@AI|top@AI|recent@econ	FRESH,HOT,SIGNAL	We need right to intervene in AI amid growing threat, says Bank of England boss
+2026-10-02T21:16:43.311Z	1586863	BooksAndArticles	2	2003	0	5	10.7	724606	13173	recent@econ|top@econ|recent@BooksAndArticles	HOT,SIGNAL,SELF_POST_OPP	BOOK on BOOKS: "Bitcoin: Separation of Money and State," by Josef Tětek
+2026-10-02T21:16:43.311Z	1587205	Politics_And_Law	3	1777	0	9	1.9	30782	25923	recent@econ|top@econ	FRESH,HOT,SIGNAL,SELF_POST_OPP	Trump Says Inflation Will Pay Off The $40 Trillion Debt "Very Rapidly"
+2026-10-02T21:16:43.311Z	1587162	meta	1	1449	0	9	3.0	48657	15879	recent@meta|top@meta|recent@Memes	HOT,SIGNAL	SNL Thumbnail Hall of Fame -- Submit your candidates!
+2026-10-02T21:16:43.311Z	1586903	charts_and_maps	2	1437	0	2	9.1	272410	1723	recent@econ|top@econ|recent@charts_and_maps	HOT,SIGNAL	Histography - Timeline of History
+2026-10-02T21:16:43.311Z	1586977	Stacker_Stocks	2	1273	0	2	7.2	280679	23680	recent@Stacker_Stocks|top@Stacker_Stocks	HOT,SIGNAL	Nike warns of layoffs as stock hits 13-year low
+2026-10-02T21:16:43.312Z	1587006	lightning	1	1271	0	0	6.9	440729	310	top@lightning	HOT,SIGNAL	~Lightning Gossip newsletter - 026W40
+2026-10-02T21:16:43.312Z	1587244	bitcoin	1	1232	0	1	0.8	74100	13022	recent@bitcoin|top@bitcoin|recent@bitcoin_Mining	FRESH,HOT,SIGNAL	ArkPool - Bitaxe Mining Pool & Hourly Ark Payouts
+2026-10-02T21:16:43.312Z	1586963	charts_and_maps	2	1174	0	4	7.4	280679	23680	recent@charts_and_maps|top@charts_and_maps	HOT,SIGNAL	Nearly $2.7 billion lost in digital asset incidents in 2026
+2026-10-02T21:16:43.312Z	1587154	bitcoin	1	1171	0	1	3.2	19732	175	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Bitbox 02 Nova: Hardware wallet with lightning? New tutorial and breakdown.
+2026-10-02T21:16:43.312Z	1587236	AskSN	2	1117	0	2	1.0	1242375	247	recent@AskSN|top@AskSN	FRESH,HOT,SIGNAL	Do we have any higher calling than prompters?
+2026-10-02T21:16:43.312Z	1586957	AskSN	2	1093	0	1	7.7	280679	23680	recent@bitcoin|top@bitcoin|recent@AskSN	HOT,SIGNAL	Is the pre-finality double-spend race intrinsic to single-owner coins?
+2026-10-02T21:16:43.312Z	1587160	lightning	1	1058	0	4	3.0	440729	310	recent@lightning|top@lightning	HOT,SIGNAL	Biggest Channel Opened Today (5.0 BTC) + New Node Spotlight (03cae7bd53077364b…)
+2026-10-02T21:16:43.312Z	1586994	lol	2	1043	0	2	7.0	724606	13173	recent@econ|top@econ|recent@lol	HOT,SIGNAL	UK Banker Doesn't Understand the Pennies-Before-Steamroller Trade (FT)
+2026-10-02T21:16:43.312Z	1586888	bitcoin_beginners	1	1026	0	3	9.6	30782	25923	recent@bitcoin_beginners|top@bitcoin_beginners	HOT,SIGNAL	Bitcoin Beginners Newsletter #118
+2026-10-02T21:16:43.312Z	1587273	bitcoin	1	958	0	0	0.1	144357	4632	recent@bitcoin|top@bitcoin	FRESH,SIGNAL	IMF pays El Salvador $138M and waives its bitcoin breach | SNL #244
+2026-10-02T21:16:43.312Z	1586965	econ	2	762	0	5	7.4	30782	25923	recent@econ|top@econ	SIGNAL,SELF_POST_OPP	"Can We All Just Admit This Is Just Absurd?!"
+2026-10-02T21:16:43.312Z	1586923	BooksAndArticles	2	652	0	11	8.5	1264102	103	recent@BooksAndArticles|top@BooksAndArticles	SIGNAL,SELF_POST_OPP	Who better to kick off our conspiracy section than Whitney Webb?
+2026-10-02T21:16:43.312Z	1587101	nostr	1	618	0	2	4.6	1578954	133	recent@nostr|top@nostr	SIGNAL	Brainstorm - Nostr's ultimate web of trust client
+2026-10-02T21:16:43.312Z	1586877	tech	1	588	0	4	10.0	776307	1280	recent@tech|top@tech	SIGNAL	'Absolute s–t': Element, EU's Microsoft Teams alternative draws bad reviews
+2026-10-02T21:16:43.312Z	1587046	lightning	1	536	0	1	5.9	263526	879	recent@lightning|top@lightning	SIGNAL	🚨 Core Lightning operators SHOULD upgrade immediately. The v26.06.8 fix is live
+2026-10-02T21:16:43.312Z	1586831	bitcoin	1	510	0	0	11.3	133081	733	recent@bitcoin|top@bitcoin	SIGNAL	The Dutch Tax Trap: Punishing Bitcoin Self-Custody to Favor ETFs
+2026-10-02T21:16:43.312Z	1587138	bitcoin	1	464	0	0	3.7	163128	3931	recent@bitcoin|top@bitcoin	SIGNAL	BISQ Release v1.10.9 w/ important security update fixed vulnerabilities
+2026-10-02T21:16:43.312Z	1587256	charts_and_maps	2	455	0	4	0.7	74100	13022	recent@charts_and_maps|top@charts_and_maps	FRESH,SIGNAL	Government transfers as a share of income
+2026-10-02T21:16:43.312Z	1587175	privacy	1	451	0	0	2.8	249216	290	recent@privacy|top@privacy	SIGNAL	👻 Ghostly: Find each other. Talk peer to peer.
+2026-10-02T21:16:43.312Z	1586920	Construction_and_Engineering	2	443	0	0	8.5	9274	28115	recent@Construction_and_Engineering|top@Construction_and_Engineering	SIGNAL	🚨Show Your Build 🚧 is going weekly! 🚨
+2026-10-02T21:16:43.312Z	1587049	Education	2	339	0	5	5.9	401865	8634	recent@Education|top@Education	SIGNAL,SELF_POST_OPP	French Students Embrace Their Frenchness Setting Own Schools On Fire in Protest
+2026-10-02T21:16:43.312Z	1587169	Music	3	282	0	0	2.9	272410	1723	recent@AI|top@AI	SIGNAL	Suno launches Speech (beta): generate voice and music together as one track
+2026-10-02T21:16:43.312Z	1586823	Stacker_Stocks	2	220	0	6	11.6	9274	28115	recent@Stacker_Stocks|top@Stacker_Stocks	SIGNAL,SELF_POST_OPP	Daily Stock Discussion ~Stacker_Stocks
+2026-10-02T21:16:43.312Z	1586909	family	3	212	0	0	8.9	984933	2739	recent@charts_and_maps|top@charts_and_maps	SIGNAL	Countries with the highest inbreeding rate.
+2026-10-02T21:16:43.312Z	1587054	AskSN	2	208	0	0	5.7	976996	65	recent@AskSN|top@AskSN	SIGNAL	Unpopular Opinion: Storing seed phrases on paper is negligent self-custody.
+2026-10-02T21:16:43.312Z	1586984	econ	2	204	0	1	7.0	280679	23680	recent@econ|top@econ	SIGNAL	Keep the Case for Free Trade Simple
+2026-10-02T21:16:43.312Z	1587091	AskSN	2	197	0	9	4.9	1054143	1374	recent@AskSN|top@AskSN	SIGNAL	What basic life skill you learned ridiculously late in life?
+2026-10-02T21:16:43.312Z	1586889	AskSN	2	187	0	0	9.6	984933	2739	recent@AskSN|top@AskSN	SIGNAL	Daily Discussion Thread ~AskSN
+2026-10-02T21:16:43.312Z	1587148	bitcoin	1	161	0	3	3.3	1490792	506	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning	SIGNAL	Core Lightning Urgent security update:please upgrade to the latest release
+2026-10-02T21:16:43.312Z	1587076	math	2	153	0	0	5.2	296825	5483	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning	SIGNAL	The beautiful math of a Bitcoin block
+2026-10-02T21:16:43.312Z	1587114	econ	2	135	0	2	4.3	328182	4051	recent@econ|top@econ	SIGNAL	'Funflation' is on the rise
+2026-10-02T21:16:43.312Z	1586836	meta	1	132	0	0	11.3	36151	1655	recent@meta|top@meta	SIGNAL	This Day on SN: October 2
+2026-10-02T21:16:43.312Z	1587111	lightning	1	119	0	2	4.4	1487725	69	recent@econ|top@econ	SIGNAL	Backing Lightning ATMs in the Meshtadel
+2026-10-02T21:16:43.312Z	1586862	news	2	110	0	1	10.8	1054143	1374	recent@news|top@news	SIGNAL	Trump vows to hit Iran ‘very hard’ if linked to fly Dubai's attack
+2026-10-02T21:16:43.312Z	1587121	art	3	100	0	0	4.2	328182	4051	recent@AI|top@AI	SIGNAL	Pope Leo XIV calls on church to ally with artists against AI
