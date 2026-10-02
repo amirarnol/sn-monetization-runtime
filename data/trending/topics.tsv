@@ -1,32 +1,25 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-10-02T01:18:47.052Z; n=40
+# generated 2026-10-02T10:19:49.216Z; n=40
 book review	sn:BooksAndArticles,sn:bitcoin	7.03	yes	
 broken money	sn:BooksAndArticles,sn:bitcoin	7.03	yes	
 way out	sn:BooksAndArticles,sn:bitcoin	7.03	yes	
 part	sn:BooksAndArticles,sn:bitcoin	7.03	yes	
 invity team	sn:BooksAndArticles,sn:bitcoin	7.03	yes	
-open	hn	4.53	no	RISING
-october	hn	4.13	yes	
+predyx	sn:Stacker_Stocks	6.35	no	RISING
+bitcoin	sn:bitcoin,sn:Stacker_Stocks	6.15	yes	
+september	hn,sn:econ	5.54	yes	
 money	sn:BooksAndArticles	3.97	no	RISING
-get people	sn:AGORA	3.91	no	RISING
-use bitcoin	sn:AGORA	3.91	no	RISING
-peter todd	sn:bitcoin	3.75	yes	
-joins	sn:bitcoin	3.75	yes	
-mara	sn:bitcoin	3.75	yes	
-foundation	sn:bitcoin	3.75	yes	
-lead maintainer	sn:bitcoin	3.75	yes	
-slipstream	sn:bitcoin	3.75	yes	
-sports economics	sn:Education	3.64	no	RISING
-what	sn:Education	3.64	yes	
-show	hn	3.59	yes	
-ahmet kurt	sn:bitcoin	3.54	yes	
-bitcoin optech newsletter	sn:bitcoin	3.54	yes	
-recap podcast	sn:bitcoin	3.54	yes	
-they	sn:Quotes	3.5	no	RISING
-francis	sn:Quotes	3.5	no	RISING
-list	sn:bitcoin	3.45	yes	
-times car rental	sn:japan	3.44	no	RISING
-japan times	sn:japan	3.44	no	RISING
+peter todd	sn:bitcoin	3.76	yes	
+joins	sn:bitcoin	3.76	yes	
+mara	sn:bitcoin	3.76	yes	
+foundation	sn:bitcoin	3.76	yes	
+lead maintainer	sn:bitcoin	3.76	yes	
+slipstream	sn:bitcoin	3.76	yes	
+sports economics	sn:Education	3.72	no	RISING
+what	sn:Education	3.72	yes	
+ahmet kurt	sn:bitcoin	3.56	yes	
+bitcoin optech newsletter	sn:bitcoin	3.56	yes	
+recap podcast	sn:bitcoin	3.56	yes	
 announcement	sn:AMA	3.3	no	RISING
 michael munger	sn:AMA	3.3	no	RISING
 econ	sn:AMA	3.3	no	RISING
@@ -36,7 +29,14 @@ write	sn:meta	3.3	yes
 inflation	sn:econ	3.29	no	RISING
 joe weisenthal	sn:econ	3.29	no	RISING
 bloomberg	sn:econ	3.29	no	RISING
-predyx	sn:Stacker_Stocks	3.26	no	RISING
 september leaderboard winners	sn:Stacker_Stocks	3.26	no	RISING
-is bitcoin just	sn:AskSN	3.26	no	RISING
-knee-jerk resurrection play	sn:AskSN	3.26	no	RISING
+thursday night football	sn:Stacker_Sports	3.23	no	RISING
+browns	sn:Stacker_Sports	3.23	no	RISING
+steelers	sn:Stacker_Sports	3.23	no	RISING
+discussion thread	sn:Stacker_Sports	3.23	no	RISING
+tokyo bitcoin base	sn:japan	3.23	no	RISING
+meshtadel	sn:Permaculture	3.22	yes	
+block launches its first ever bitcoin consumer advertising campaign	sn:Design	3.18	yes	
+econ posts	sn:econ	3.13	no	RISING
+bitcoin ecology	sn:bitcoin	3.1	yes	
+dhruv bansal	sn:bitcoin	3.1	yes	
