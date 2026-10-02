@@ -1,0 +1,64 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1586122	bitcoin	1	5669	0	6	11.5	74100	13002	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Peter Todd, Joins MARA Foundation as Lead Maintainer of Slipstream
+1586425	bitcoin	1	3479	0	2	5.7	1014665	241	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Ahmet Kurt and Jan B - Bitcoin Optech Newsletter #424 Recap Podcast
+1586498	meta	1	2533	0	2	3.7	1	27559	recent@meta|top@meta	HOT,SIGNAL	SN release: disable receiving cowboy credits & hide more of long comments
+1586282	Design	2	1508	0	7	8.9	163128	3928	recent@bitcoin|top@bitcoin	HOT,SIGNAL,SELF_POST_OPP	Block Launches Its First Ever Bitcoin Consumer Advertising Campaign
+1586422	bitcoin	1	1263	0	2	5.7	114596	4	recent@bitcoin|top@bitcoin	HOT,SIGNAL	New 'Bitcoin Ecology' series from Dhruv Bansal: Bitcoin Is All You Need
+1586551	bitcoin	1	1177	0	4	2.6	1	27559	recent@bitcoin|top@bitcoin|recent@privacy	HOT,SIGNAL	Foreign aid disbursements are correlated with onchain bitcoin activity
+1586105	bitcoin	1	1148	0	0	11.8	724606	13151	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Book Review: Broken Money and the Way Out, PART 2: BITCOIN (the Invity Team)
+1586344	lightning	1	1101	0	3	7.6	440729	307	recent@lightning|top@lightning	HOT,SIGNAL	Biggest Channel Opened Today (2.3 BTC) + New Node Spotlight (032cd9ff4efa33df3…)
+1586158	bitcoin	1	806	0	2	11.0	724606	13151	recent@bitcoin|top@bitcoin	SIGNAL	Book Review: Broken Money and the Way Out, PART 3: IN PRACTICE(the Invity Team)
+1586453	AI	1	512	0	1	5.0	144357	4625	recent@AI|top@AI	SIGNAL	Introducing Griffin: The First Human Interaction Model
+1586509	DIY	3	375	0	3	3.4	280679	23674	recent@tech|top@tech	SIGNAL	A Mechanical Radio, Sort Of
+1586097	security	1	350	0	1	12.0	1490792	500	recent@security|top@security|recent@tech	SIGNAL	Using Device Linking to Eavesdrop on WhatsApp and Signal - Schneier on Security
+1586434	bitcoin	1	313	0	3	5.5	297791	7871	recent@bitcoin|top@bitcoin	SIGNAL	Strategy (MSTR) Moved 3,568 BTC In Hours And Investors Want Answers
+1586279	bitcoin_beginners	1	280	0	2	9.0	296825	5481	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning	SIGNAL	CLINK disrespectors are having NIH syndrome
+1586332	bitcoin	1	270	0	0	7.9	168586	2762	recent@bitcoin|top@bitcoin	SIGNAL	Bitcoin Calendar: October 2026
+1586114	lightning	1	231	0	1	11.6	249216	289	recent@lightning|top@lightning	SIGNAL	⚡ NimbleNode — Self-Hosted Bitcoin Lightning Network Node Stack
+1586240	bitcoin	1	218	0	0	9.8	296825	5481	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning	SIGNAL	"Find My Nuts" mesh network: Possibly the most absurd medium to send sats yet.
+1586569	AI	1	211	0	0	2.3	984933	2726	recent@AI|top@AI	SIGNAL	Soldiers of Napoleon's army
+1586284	AI	1	192	0	0	8.9	984933	2726	recent@AI|top@AI	SIGNAL	Putin recalled who saved the world from nuclear war.
+1585484	bitcoin	1	8482	0	23	28.0	88718	48407	recent@bitcoin|recent@bitcoin_beginners	HOT	Why SoV -> MoE -> UoA for bitcoin
+1585578	lightning	1	7952	0	27	26.0	321012	769	recent@lightning	HOT	Potential Core Lightning Attack - 8 Suspicious Closes Today
+1585317	bitcoin	1	5961	0	8	31.2	74100	13002	recent@bitcoin|recent@privacy	HOT	Shielded Bitcoin & PIPEs: 12 Questions & Answers - BTC++ Insider Edition
+1585696	meta	1	3439	0	55	23.4	74100	13002	recent@meta|top@meta	HOT	Are comment fees too low?
+1585777	bitcoin	1	2794	0	7	21.4	223678	6387	recent@bitcoin|top@bitcoin	HOT	List of potentially malicious nodes.
+1585483	bitcoin	1	2524	0	11	28.0	220094	3059	recent@bitcoin	HOT	I just realized - I've been dust attacked. Options (useful and safe)?
+1586028	meta	1	1972	5000	20	13.3	900202	2873	recent@meta|top@meta	OPEN_BOUNTY,HOT	Write my bio
+1585344	AI	1	1439	0	4	30.9	74100	13002	recent@bitcoin|recent@AI	HOT	Lessons from bitcoin for open intelligence - Andrew Bailey
+1585469	news	2	1431	0	6	28.5	144450	98	recent@AI	HOT,SELF_POST_OPP	Inside McDonald’s push to have AI price your Big Mac | Reuters
+1585118	meta	1	815	0	9	35.3	36151	1654	recent@meta		What are you working on this week?
+1585384	Permaculture	3	720	0	10	30.3	1487725	55	recent@bitcoin	SELF_POST_OPP	Mapping the MESHTADEL
+1585532	lightning	1	706	0	3	27.2	1518571	26	recent@lightning		New release of Electrum Liquidity Manager (v 0.4.0)
+1585238	Design	2	658	0	0	32.8	1	27559	recent@bitcoin|recent@lightning|recent@devs		Lightning Pay Kit - helps customers figure out how to pay their first invoice
+1585245	bitcoin	1	572	0	0	32.6	1574097	10	recent@bitcoin		Unbank awards $25,000 in bitcoin to BTCPay Server Foundation
+1586086	AI	1	550	0	1	12.3	401865	8629	recent@AI|top@AI		Broadcom To Lend Anthropic Up To $42 billion To Lease Its Chips, Filing Says
+1585958	meta	1	537	0	4	14.9	934367	1091	recent@meta|top@meta		Any stackers at bitcoin++ Berlin?
+1585447	AI	1	449	0	3	29.2	280679	23674	recent@AI		Reddit is killing RSS feeds and ending public API access because of AI bots
+1585422	AI	1	406	0	2	29.4	280679	23674	recent@AI		The AI Tamagotchis are coming
+1585476	lightning	1	391	0	6	28.4	1487725	55	recent@lightning		Screening calls & texts with sats
+1585244	bitcoin	1	385	0	1	32.6	280679	23674	recent@bitcoin|recent@lightning		Coinos v3
+1585065	tech	1	384	0	0	36.0	934367	1091	recent@tech		Veilid: A Privacy-First P2P Framework
+1585459	AI	1	325	0	1	29.0	1575305	12	recent@AI		Who needs to write opinion articles anymore, ill just send people whole music...
+1585517	devs	1	288	0	0	27.5	280679	23674	recent@devs		From SELECT to SYSADMIN with SQL Copilot (CVE-2026-65669)
+1585383	AI	1	283	0	0	30.3	1581213	13	recent@devs|recent@tech|recent@AI		AI Text Polisher
+1586049	DIY	3	220	0	1	12.9	296825	5481	recent@AI|top@AI		Run your own Local AI at home with no drivers, configuration, or command line
+1585319	openagents	1	182	0	2	31.2	534967	247	recent@openagents		Episode 288: Three DevDays Later
+1585687	AI	1	166	0	2	23.9	402772	22582	recent@AI|top@AI		AI agents tried to hack Canadian government website
+1585475	bitcoin	1	161	0	5	28.4	1487725	55	recent@bitcoin		Where are the bounties?
+1585796	AI	1	125	0	1	20.8	347614	1514	recent@AI|top@AI		AgentCraft: Putting the Orc in Orchestration — Ido Salomon - YouTube
+1586031	bitcoin	1	109	0	0	13.2	296825	5481	recent@bitcoin_beginners|top@bitcoin_beginners		October is the month we celebrate the Whitepaper. Read the African translations
+1585619	security	1	74	0	0	25.2	1054143	1366	recent@security		Web3 Security Losses Hit $793 Million Across 39 September Incidents
+1585983	security	1	67	0	1	14.5	1278026	852	recent@security|top@security		The Truman Show in Aisle Five
+1586231	bitcoin_beginners	1	57	0	1	10.0	296825	5481	recent@bitcoin_beginners|top@bitcoin_beginners		It took 40 years of research
+1585952	bitcoin	1	57	0	1	14.9	1490792	500	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining		Solo Satoshi 🇺🇲 (@SoloSatoshi) on X
+1585168	security	1	42	0	2	34.4	104737	667	recent@security|recent@AI		Will the Hugging Face incident lead to Skynet?
+1585971	bitcoin_beginners	1	36	0	1	14.7	1444593	129	recent@bitcoin_beginners|top@bitcoin_beginners		Estas 12 palabras tienen bitcoin asociado, pero al restaurarlas aparece saldo 0.
+1586032	AI	1	21	0	0	13.2	1490792	500	recent@AI|top@AI		Trump launches America.gov with AI chatbots at its core
+1585408	devs	1	14	0	0	30.0	297791	7871	recent@devs		EDG C/C++ Front-End Open-Sourced
+1586646	bitcoin	1	0	0	0	0.1	74100	13002	recent@bitcoin|top@bitcoin|recent@bitdevs	FRESH	snail: zero onchain fee transaction sender - @1440000bytes
+1586149	bitcoin_beginners	1	0	0	0	11.1	296825	5481	recent@bitcoin_beginners|top@bitcoin_beginners		It looks like the API is returning HTML instead of JSON. How to fix this?
+1586639	bitcoin_Mining	1	0	0	0	0.2	1532836	1015	recent@bitcoin_Mining|top@bitcoin_Mining	FRESH	rigly's #blockparty #42 is here
+1585947	bitcoin	1	0	0	1	15.0	1585947	2	recent@bitdevs|top@bitdevs		The Next Frontier: Scaling Bitcoin With the Lightning Network
+1586073	devs	1	0	0	0	12.6	297791	7871	recent@devs|top@devs		New Linux Patches Trying To Mainline Renesas SH7305 CPU Support
+1586610	AI	1	0	0	0	1.3	1575305	12	recent@AI|top@AI	FRESH	We’re burning the planet to generate code I have to reject
