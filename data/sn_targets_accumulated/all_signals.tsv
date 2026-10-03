@@ -54448,3 +54448,18 @@
 2026-10-03T01:05:27.375Z	1587114	econ	2	135	0	2	8.1	328182	4052	recent@econ|top@econ	SIGNAL	'Funflation' is on the rise
 2026-10-03T01:05:27.375Z	1587111	lightning	1	119	0	2	8.3	1487725	69	recent@econ|top@econ	SIGNAL	Backing Lightning ATMs in the Meshtadel
 2026-10-03T01:05:27.375Z	1587121	art	3	100	0	0	8.0	328182	4052	recent@AI|top@AI	SIGNAL	Pope Leo XIV calls on church to ally with artists against AI
+2026-10-03T02:20:25.212Z	1587232	AI	1	2273	0	5	6.2	4078	5518	recent@AI|top@AI	HOT,SIGNAL	We need right to intervene in AI amid growing threat, says Bank of England boss
+2026-10-03T02:20:25.212Z	1587244	bitcoin	1	1923	0	7	5.9	74100	13025	recent@bitcoin|top@bitcoin|recent@bitcoin_Mining	HOT,SIGNAL	ArkPool - Bitaxe Mining Pool & Hourly Ark Payouts
+2026-10-03T02:20:25.212Z	1587273	bitcoin	1	1557	0	1	5.2	144357	4632	recent@bitcoin|top@bitcoin	HOT,SIGNAL	IMF pays El Salvador $138M and waives its bitcoin breach | SNL #244
+2026-10-03T02:20:25.212Z	1587162	meta	1	1449	0	9	8.1	48657	15879	recent@meta|top@meta	HOT,SIGNAL	SNL Thumbnail Hall of Fame -- Submit your candidates!
+2026-10-03T02:20:25.212Z	1587006	lightning	1	1362	0	1	12.0	440729	310	top@lightning	HOT,SIGNAL	~Lightning Gossip newsletter - 026W40
+2026-10-03T02:20:25.212Z	1587154	bitcoin	1	1171	0	2	8.2	19732	175	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Bitbox 02 Nova: Hardware wallet with lightning? New tutorial and breakdown.
+2026-10-03T02:20:25.212Z	1587160	lightning	1	1058	0	4	8.1	440729	310	recent@lightning|top@lightning	HOT,SIGNAL	Biggest Channel Opened Today (5.0 BTC) + New Node Spotlight (03cae7bd53077364b…)
+2026-10-03T02:20:25.212Z	1587046	lightning	1	636	0	1	11.0	263526	879	recent@lightning|top@lightning	SIGNAL	🚨 Core Lightning operators SHOULD upgrade immediately. The v26.06.8 fix is live
+2026-10-03T02:20:25.212Z	1587101	nostr	1	618	0	2	9.6	1578954	134	recent@nostr|top@nostr	SIGNAL	Brainstorm - Nostr's ultimate web of trust client
+2026-10-03T02:20:25.212Z	1587138	bitcoin	1	464	0	0	8.8	163128	3931	recent@bitcoin|top@bitcoin	SIGNAL	BISQ Release v1.10.9 w/ important security update fixed vulnerabilities
+2026-10-03T02:20:25.212Z	1587175	privacy	1	461	0	1	7.8	249216	290	recent@privacy|top@privacy	SIGNAL	👻 Ghostly: Find each other. Talk peer to peer.
+2026-10-03T02:20:25.213Z	1587169	Music	3	282	0	0	7.9	272410	1723	recent@AI|top@AI	SIGNAL	Suno launches Speech (beta): generate voice and music together as one track
+2026-10-03T02:20:25.213Z	1587148	bitcoin	1	161	0	3	8.4	1490792	506	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning	SIGNAL	Core Lightning Urgent security update:please upgrade to the latest release
+2026-10-03T02:20:25.213Z	1587076	math	2	153	0	0	10.3	296825	5483	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning	SIGNAL	The beautiful math of a Bitcoin block
+2026-10-03T02:20:25.213Z	1587121	art	3	100	0	0	9.2	328182	4052	recent@AI|top@AI	SIGNAL	Pope Leo XIV calls on church to ally with artists against AI
