@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-10-03T09:42:01.125Z; n=40
-show	hn	4.5	yes	
-saigon	sn:food_and_drinks	4.24	no	RISING
-bitcoiners	sn:food_and_drinks	4.24	no	RISING
-local eats	sn:food_and_drinks	4.24	no	RISING
-matcha	sn:food_and_drinks	4.24	no	RISING
-online	sn:food_and_drinks	4.24	no	RISING
-promo	sn:food_and_drinks	4.24	no	RISING
-linux	hn	3.97	no	RISING
-eclair dos	sn:bitcoin	3.53	yes	
-bitcoin optech newsletter	sn:bitcoin	3.53	yes	
-econ posts	sn:econ	3.5	no	RISING
+# generated 2026-10-03T14:34:24.150Z; n=40
+show	hn	5.99	yes	
+lodging	sn:the_stacker_muse	3.73	yes	
+wayfaring men book club	sn:the_stacker_muse	3.73	yes	
+farber	sn:the_stacker_muse	3.73	no	RISING
+first essay	sn:the_stacker_muse	3.73	no	RISING
+permaculture	sn:Permaculture	3.52	no	RISING
+homesteading	sn:Permaculture	3.52	no	RISING
+bitcoiners	sn:Permaculture	3.52	no	RISING
+meshtadel	sn:Permaculture	3.52	no	RISING
+econ posts	sn:econ	3.51	no	RISING
+bitcoin	sn:AskSN	3.38	yes	
+monetary commons	sn:AskSN	3.38	no	RISING
+is fiat like	sn:AskSN	3.38	no	RISING
+english enclosures	sn:AskSN	3.38	no	RISING
 bank	sn:AI	3.36	yes	
 england	sn:AI	3.36	yes	
-trump says inflation will pay off the	sn:Politics_And_Law	3.33	no	RISING
-trillion debt	sn:Politics_And_Law	3.33	no	RISING
-very rapidly	sn:Politics_And_Law	3.33	no	RISING
-on hills and valleys	sn:BooksAndArticles	3.32	no	RISING
-luke	sn:BooksAndArticles	3.32	no	RISING
-wolf	sn:BooksAndArticles	3.32	no	RISING
-permaculture	sn:Permaculture	3.3	no	RISING
-horses	sn:Permaculture	3.3	no	RISING
+trump says inflation will pay off the	sn:Politics_And_Law	3.35	no	RISING
+trillion debt	sn:Politics_And_Law	3.35	no	RISING
+very rapidly	sn:Politics_And_Law	3.35	no	RISING
 bitaxe mining pool	sn:bitcoin	3.3	yes	
 hourly ark payouts	sn:bitcoin	3.3	yes	
-book	sn:BooksAndArticles	3.3	no	RISING
-books	sn:BooksAndArticles	3.3	no	RISING
-bitcoin	sn:BooksAndArticles	3.3	yes	
-separation	sn:BooksAndArticles	3.3	no	RISING
-money	sn:BooksAndArticles	3.3	no	RISING
-state	sn:BooksAndArticles	3.3	no	RISING
-josef	sn:BooksAndArticles	3.3	no	RISING
 el salvador	sn:bitcoin	3.2	yes	
 thumbnail hall	sn:meta	3.19	yes	
 fame	sn:meta	3.19	yes	
 submit	sn:meta	3.19	yes	
-histography	sn:charts_and_maps	3.16	no	RISING
-timeline	sn:charts_and_maps	3.16	no	RISING
-history	sn:charts_and_maps	3.16	yes	
-playoff points challenge	sn:Stacker_Sports	3.16	no	RISING
-current standing	sn:Stacker_Sports	3.16	no	RISING
-lightning gossip	sn:lightning	3.13	no	RISING
+zolak	sn:AGORA	3.11	no	RISING
+vilnius	sn:AGORA	3.11	no	RISING
+bitcoin lightning	sn:AGORA	3.11	no	RISING
+government	sn:charts_and_maps	3.11	no	RISING
+books	sn:BooksAndArticles	3.11	no	RISING
+articles weekly	sn:BooksAndArticles	3.11	no	RISING
+bitbox	sn:bitcoin	3.08	yes	
+nova	sn:bitcoin	3.08	yes	
+hardware	sn:bitcoin	3.08	yes	
+lessons	sn:meta	2.93	yes	
+stacker	sn:meta	2.93	yes	
+stacker sports prepod notes	sn:Stacker_Sports	2.9	no	RISING
+episode	sn:Stacker_Sports	2.9	yes	
+vice city	sn:gaming	2.85	no	RISING
+milwaukee	sn:gaming	2.85	no	RISING
