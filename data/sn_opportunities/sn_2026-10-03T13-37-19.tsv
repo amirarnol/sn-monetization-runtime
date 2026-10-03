@@ -1,0 +1,44 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1587481	meta	1	444	0	2	3.7	402772	22593	recent@meta|top@meta	SIGNAL	Lessons learned from Stacker.news (2024)
+1587556	AI	1	408	0	0	1.0	328182	4059	recent@AI|top@AI	FRESH,SIGNAL	arXiv imposes rate limit on paper submissions to stem the AI slop tide
+1587517	DIY	3	365	0	0	2.2	272410	1728	recent@tech|top@tech	SIGNAL	This is the world's oldest webcam: 32 years live from San Francisco State
+1587509	DIY	3	327	0	0	2.4	303620	6433	recent@tech|top@tech	SIGNAL	DIY Handheld Computer Build
+1586918	bitcoin	1	3375	0	3	24.9	1014665	242	recent@bitcoin|recent@lightning	HOT	Eclair Dos, wallet labels, changing consensus - Bitcoin Optech Newsletter #425
+1587232	AI	1	2289	0	8	17.4	4078	5518	recent@AI|top@AI	HOT	We need right to intervene in AI amid growing threat, says Bank of England boss
+1587244	bitcoin	1	1979	0	19	17.2	74100	13025	recent@bitcoin|top@bitcoin|recent@bitcoin_Mining	HOT	ArkPool - Bitaxe Mining Pool & Hourly Ark Payouts
+1587273	bitcoin	1	1568	0	2	16.5	144357	4632	recent@bitcoin|top@bitcoin	HOT	IMF pays El Salvador $138M and waives its bitcoin breach | SNL #244
+1587162	meta	1	1560	0	9	19.4	48657	15879	recent@meta|top@meta	HOT	SNL Thumbnail Hall of Fame -- Submit your candidates!
+1587006	lightning	1	1362	0	1	23.2	440729	310	top@lightning	HOT	~Lightning Gossip newsletter - 026W40
+1587154	bitcoin	1	1203	0	2	19.5	19732	175	recent@bitcoin|top@bitcoin	HOT	Bitbox 02 Nova: Hardware wallet with lightning? New tutorial and breakdown.
+1586957	AskSN	2	1093	0	1	24.0	280679	23680	recent@bitcoin|top@bitcoin	HOT	Is the pre-finality double-spend race intrinsic to single-owner coins?
+1587160	lightning	1	1058	0	5	19.4	440729	310	recent@lightning|top@lightning	HOT	Biggest Channel Opened Today (5.0 BTC) + New Node Spotlight (03cae7bd53077364b…)
+1586888	bitcoin_beginners	1	1026	0	3	25.9	30782	25924	recent@bitcoin_beginners	HOT	Bitcoin Beginners Newsletter #118
+1586761	AGORA	3	919	0	2	31.0	263526	884	recent@lightning		Lolly UK add Bitcoin Payment for Seamless Transactions competing now with Square
+1587101	nostr	1	639	0	3	20.9	1578954	138	recent@nostr|top@nostr		Brainstorm - Nostr's ultimate web of trust client
+1587046	lightning	1	636	0	1	22.3	263526	884	recent@lightning|top@lightning		🚨 Core Lightning operators SHOULD upgrade immediately. The v26.06.8 fix is live
+1586877	tech	1	599	0	5	26.3	776307	1280	recent@tech		'Absolute s–t': Element, EU's Microsoft Teams alternative draws bad reviews
+1586831	bitcoin	1	510	0	0	27.7	133081	733	recent@bitcoin		The Dutch Tax Trap: Punishing Bitcoin Self-Custody to Favor ETFs
+1586777	AI	1	502	0	0	30.4	1054143	1377	recent@AI		SpaceX launches Google AI chip into orbit in push toward space-based data center
+1587175	privacy	1	493	0	1	19.1	249216	290	recent@privacy|top@privacy		👻 Ghostly: Find each other. Talk peer to peer.
+1587138	bitcoin	1	475	0	0	20.0	163128	3931	recent@bitcoin|top@bitcoin		BISQ Release v1.10.9 w/ important security update fixed vulnerabilities
+1587169	Music	3	282	0	0	19.2	272410	1728	recent@AI|top@AI		Suno launches Speech (beta): generate voice and music together as one track
+1586763	openagents	1	201	0	3	30.8	534967	249	recent@openagents		Episode 289: OpenAgents
+1586674	news	2	190	0	0	34.6	297791	7878	recent@AI		OpenAI fires workers for mishandling 'sensitive information'
+1587315	AI	1	172	0	0	14.4	1575305	14	recent@AI|top@AI		GPT-6 Astra helped decipher a Napoleonic military letter that remained unread...
+1587148	bitcoin	1	161	0	5	19.7	1490792	509	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning		Core Lightning Urgent security update:please upgrade to the latest release
+1587076	math	2	153	0	0	21.6	296825	5486	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning		The beautiful math of a Bitcoin block
+1586836	meta	1	132	0	0	27.6	36151	1656	recent@meta		This Day on SN: October 2
+1587121	art	3	100	0	0	20.5	328182	4059	recent@AI|top@AI		Pope Leo XIV calls on church to ally with artists against AI
+1587483	meta	1	99	0	2	3.6	36151	1656	recent@meta|top@meta		This Day on SN: October 3
+1587286	security	1	94	0	3	15.6	1466289	7	recent@security|top@security		Why You Should Never Use AI to Generate Passwords
+1587411	bitcoin_beginners	1	57	0	1	9.4	296825	5486	recent@bitcoin_beginners|top@bitcoin_beginners		Mostro v0.19.1:0 is live on the Start9 community-beta marketplace.
+1587400	bitcoin_beginners	1	57	0	1	9.8	296825	5486	recent@bitcoin_beginners|top@bitcoin_beginners		Ready for Bitcoin adoption?
+1587062	podcasts	2	36	0	0	21.8	296825	5486	recent@bitcoin_beginners|top@bitcoin_beginners		🛑 Stop mixing your Bitcoin!
+1587293	news	2	36	0	0	15.3	297791	7878	recent@AI|top@AI		Apple tightening macOS 'Full Disk Access' controls due to new AI agents risks
+1587386	bitcoin_Mining	1	11	0	0	10.4	1532836	1064	recent@bitcoin_Mining|top@bitcoin_Mining		My POW blockparty #42 Rigly's
+1587366	bitcoin_Mining	1	11	0	0	12.0	1532836	1064	recent@bitcoin_Mining|top@bitcoin_Mining		Blockparty #42 Rigly's
+1587108	lol	2	5	0	2	20.9	328182	4059	recent@AI|top@AI		Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names
+1586952	security	1	0	0	0	24.2	297791	7878	recent@security		AI-Powered 0-Day Chain 543K Live Secrets, Model Inspection RCE & 13 More Stories
+1587475	AI	1	0	0	0	4.0	1054143	1377	recent@AI|top@AI		Anthropic to invest $100 million to train AI engineer talent
+1587086	news	2	0	0	0	21.4	297791	7878	recent@AI|top@AI		An AI ‘torture chamber’ went viral — then a developer gave the bot constipation
+1587153	AI	1	0	0	0	19.6	1575305	14	recent@AI|top@AI		Google's Project Suncatcher prototype satellite is now in orbit
